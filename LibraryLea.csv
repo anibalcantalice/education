@@ -1,0 +1,639 @@
+Codigo,Título,Quantidades,Autor,Ano,Editora,Edição,ISBN,Categoria
+BIOG01,Zoologia dos invertebrados,1,Robert D. Barnes,1996,Livraria Atheneu,4° Ed. ,-,Biologia Geral
+BIOG02,Zoologia geral,1,"Tracy I. Strorer, Robert L. Usinger, Robert C. Stebbins, James W. Nybakken",1989,Companhia editora nacional,8° Ed. ,-,Biologia Geral
+BIOG03,Introdução ao estudo dos insetos,1,"Donald J. Borror, Dwight M. DeLong",1988,Edgard Blucher ,1° Ed. ,-,Biologia Geral
+BIOG04,Entre o gambá e o macaco,1,Eurico Santos,1984,Itatiaia,6° Ed. ,-,Biologia Geral
+BIOG05,Miscelânea Zoológica ,,Eurico Santos,1987,Itatiaia,11º Ed.,-,Biologia Geral
+BIOG06,Glossário de Oceanografia,Biologia Geral,Argeo Magliocca,1987,Editora da Universidade de São Paulo,1º Ed.,-,Biologia Geral
+BIOG07,Guia de Farmacognosia Aplicada,Biologia Geral,"Marcia do Rocio Duarte, Yoshiko Yassumoto, Carlos Cecy",1991,Editora Universitária Champagnat,-,-,Biologia Geral
+BIOG08,Zoologia,1,"Marcos Durval, Guimarães Ferri",1974,Itatiaia,1° Ed. ,-,Biologia Geral
+BIOG09,Fisiologia Humana,1,Arthur C. Guyton,1984,Guanabara,6° Ed. ,-,Biologia Geral
+BIOG10,Biologia celular e molecular,1,L.C.U. Junqueira,1987,Guanabara,1° Ed. ,-,Biologia Geral
+BIOG11,História geológica da vida,1,A. LEE McALESTER,1988,Edgard,1° Ed. ,-,Biologia Geral
+BIOG12,Introdução à citogenética geral,1,Marcelo dos Santos Guerra,1988,Guanabara,1° Ed. ,-,Biologia Geral
+BIOG13,Paleontologia básica,1,Josue Camargo Mendes,1988,Editora da Universidade de São Paulo,13° Ed. ,-,Biologia Geral
+BIOG14,Introdução a geomorfologia,1,"Lucivânio Jatobá, Rachel Lins Caldas",2003,Bagaço,4° Ed. ,-,Biologia Geral
+BIOG15,Chemical principles,1,Steven S. Zumdahl,1995,Heath,2° Ed. ,-,Biologia Geral
+BIOG16,Nature's Chemicals: the natural products that Shaped Our World,1,Richard Firn,2010,Oxford University Press,1° Ed. ,-,Biologia Geral
+BIOG17,Microbiologia,1,Luiz Rachid Trabulsi,1989,Livraria Atheneu,1° Ed. ,-,Biologia Geral
+BIOG18,Microbiologia básica,1,"Juarez Braga Soares, Antonio Renato S. de Casimiro, Laurênia Maria B. de Albuquerque",1991,Editora UFC,1° Ed. ,-,Biologia Geral
+BIOG19,Comportamento animal,1,"Vincent Gaston Dethier, Eliot Stellar",1988,Edgard Blucher ,1° Ed. ,-,Biologia Geral
+BIOG20(1/1),O comportamento animal,,Carty/Howse,1923,Editora Pedagogica e Universitária,14ºEd.,,Biologia Geral
+BIOG20(2/2),O comportamento social dos animais,,Deag,1980,Editora Pedagogica e Universitária,26º Ed.,,Biologia Geral
+BIOG21,Guia para Trabalhos de Campo em Paleontologia na Bacia do Araripe,Biologia Geral,Alamo Feitosa Soares,2010,-,1° Ed.,,Biologia Geral
+BIOG22,"Vida: a ciência da biologia. Volume 2: evolução, diversidade e ecologia",1,"David Sadava, Craig Heller, Gordon Orians, Bill Purves, David Hillis",2009,Artmed,8° Ed. ,-,Biologia Geral
+BIOG22,"Vida: a ciência da biologia. Volume 3: evolução, diversidade e ecologia",1,"David Sadava, Craig Heller, Gordon Orians, Bill Purves, David Hillis",2009,Artmed,8° Ed. ,-,Biologia Geral
+BIOG23,Miranda Azevedo e o Darwinismo no Brasil,1,Terezinha Alves Ferreira Collichio,1988,Itatiaia,1° Ed. ,-,Biologia Geral
+BIOG24,História da Biologia,Biologia Geral,Jean Theodorides,1965,Press Universitaries de France,1° Ed.,,Biologia Geral
+BIOG25,"Os Primitivos, Nossos Contemporaneos",Biologia Geral,Frédéric Rognon,1991,Papirus editora,-,,Biologia Geral
+BIOG26,"Recursos geneticos, nosso tesouro esquecido: Abordagem técnica e sócio-econômi",Biologia Geral,Daniel Querol,1993,Satis,1° Ed.,,Biologia Geral
+BIOG27,Vida: A ciência da Biologia I: Célula e Hereditariedade,,"David Sadava, Craig Heller, Gordon Orians, Bill Purves, David Hillis",2009,Artmed,8° Ed. ,-,Biologia Geral
+BOT01,Acta Botanica Brasilica/ Official Publication of the Brazilian Botanical Society - New Perspectives in Ethnobotany: Frontiers and Innovations,,"Ana Ladio, Natalia Hanazaki e Nivaldo Peroni",2019,Acta Botanica Brasilica,- ,-,Botânica
+BOT02,Água: Vida das Plantas,,Todor Georgiev Kudrev,1994,Ícone,1° Ed.,85-274-0291-2,Botânica
+BOT03,Anatomia da Madeira,,"Luiza Maria Burger, Hans Gerog Ritcher",1991,Livraria Nobel S.A,- ,,Botânica
+BOT04,Árvores Brasileiras: Manual de Identificação e Cultivo de Plantas Arbóreas Nativas do Brasil,,Harri Lorenzi,2002,-,4º Ed.,,Botânica
+BOT05,Aspectos Taxonômicos e Etnobotânicos de Plantas Empregadas para fins litúrgicos e medicinais nos cultos Afro-Brasileiros em Recife - PE,,Ulysses Pualino de Albuquerque,1993,-,-,,Botânica
+BOT06,Bioclimatologia Vegetal,,José Carlos Ometto,1981,Agronômica Ceres Ltda.,1° Ed.,,Botânica
+BOT07,Botânica Aplicada ao Controle de Qualidade de Alimentos e Medicamentos,,Luiza Iilza Ferreira Jorge,2000,Atheneu,1° Ed.,,Botânica
+BOT08(1/2),Cadernos Didaticos: Anatomia das Espermatofitas (Exercicios Praticos),,"Aristéa Alves Azevedo, Carlos Joaquim Gomide, Eldo Antônio Monteiro da Silva, Helvécio da Silva, José Maria",2000,Editora UFV,1º Ed.,,Botânica
+BOT08(2/2),Cadernos Didaticos: Anatomia das Espermatofitas (Exercicios Praticos),,,,,,,Botânica
+BOT09,"Complexo Agroindustrial das Plantas Medicinais, Aromáticas e Condimentares no Estudo do Paraná - Diagnóstico e Perspectivas",,"Cirino Corrêa Júnior, Luiz Roberto Graça, Marianne Christina Scheffer",2004,,1º Ed.,,Botânica
+BOT10,Cómo Viven las Plantas,,Carlos Vázquez Yanes,1997,-,-,,Botânica
+BOT11,Biologia Vegetal,,"Raven, Evert ,Eichhrn",1978,Guanabara Koongon,7° Ed. ,,Botânica
+BOT12(1/1),Botânica Criptogâmica vol 1,,Gilbert M. Smith,1995,,4° Ed.,,Botânica
+BOT12(2/2),Botânica Criptogâmica vol 2,,Gilbert M. Smith,1995,,4° Ed.,,Botânica
+BOT13,Comunicações - Técnicas Florestais - Levantamento Ecologico Rápido,,,,,,,Botânica
+BOT14(1/1),Sistemática de Angiospermas do Brasil - Vol I,1,Graziella Maciel Barroso et al.,2002,UFV,2° Ed.,,Botânica
+BOT14(2/2),Sistemática de Angiospermas do Brasil  - Vol II,1,Graziela Maciel Barroso,2002,UFV,2° Ed.,,Botânica
+BOT15,Constituintes Quimicos Ativos de Plantas Medicinais Brasileiras,,Mirian Pinheiro de Sousa,1991,EUFC,1° Ed.,,Botânica
+BOT16,Dendrologia das Gimnospermas,,José Newton Cardoso Marchiori,1996,USFM,1° Ed.,,Botânica
+BOT17,Elementos de Dendrologia,,José Newton Cardoso Marchiori,1995,Editora da Universidade Federal Santa Maria,-,,Botânica
+BOT18,Sistemática de Angiospermas do Brasil Vol III,1,Graziela Maciel Barroso,1991,,1° Ed. ,,Botânica
+BOT19,Farmácias Vivas,,F. J. Abreu Matos,1998,Edições UFC,3º Ed.,,Botânica
+BOT20,Morfologia Vegtal - Organografia e Dicionário Ilustrado de Morfologia das Plantas vasculars,,"Eduardo Gomes Gonçalves, Harri Lorenzi ",2007,Instituto Plantarum de Estudos da Flora,1° Ed. ,-,Botânica
+BOT21,Botânica - Morfologia externa das plantas,,Mário Guimarães Ferri,1983,Nobel,1° Ed. ,,Botânica
+BOT22,Botânica: Morfologia Interna das Plantas (Anatomia),,Mário Guimarães Ferri,1981,Melhoramentos,9° Ed.,-,Botânica
+BOT23,Introdução à Fitoquímica Experimental,,F. J. Abreu Matos,1997,Edições UFC,2º Ed.,,Botânica
+BOT24,Anatomia Vegetal - Parte I Células e Tecidos,,E. G. Cutter,1986,Roca,2° Ed.,-,Botânica
+BOT25,Anatomia Vegetal - Parte II Orgãos Experimentos e Interpretação,,Elizabeth G. Cutter,1987,Roca,2° Ed.,-,Botânica
+BOT26,Livro Vermelho da Flora do Brasil - Plantas Raras do Cerrado,,"Gustavo Martinelli, Tainan Messina & Luiz Santos Filho",2014,-,1º Ed.,,Botânica
+BOT27,Plant resins: Chemistry Evolution Ecology Ethnobotany,,Jean H. Langenheim,2003,-,-,,Botânica
+BOT28,Botánica económica en bosques tropicales: principios y métodos para su estudio y aprovechamiento,,"Martin Ricker, Douglas C. Daly",1998,Editorial Diana,1° Ed. ,9789681328610,Botânica
+BOT29,Asteraceae: Caracterização e Morfologia Floral,, Nádia Roque & Hortensia Bautista,2008,EDUFBA,1° Ed. ,9788523205393,Botânica
+BOT30,Introdução à Fisiologia Vegetal,,Marcel Award,1986,Nobel,1° Ed. ,,Botânica
+BOT31,Fisiologia vegetal 2 ,,Coordenador: Mário Guimarães Ferri,1986,,2° Ed.,,Botânica
+BOT32,Elementos Básicos de Sistemática Filogenética,,Dalton de Souza Amarin,1997,Holos/Sociedade Brasileira de Entomologia,2° Ed.,-,Botânica
+BOT33,Germinação de Sementes de Palmeiras - Revisão Bibliográfica,,Claudio Urbano B. Pinheiro,1985,Embrapa,1° Ed. ,,Botânica
+BOT34,Plantas raras do Brasil,,Isabel de Lima Souza,2009,UEFS,1° Ed. ,,Botânica
+BOT35,Pesquisa Botânica Nordestina: Progresso e Perspectivas,,Everardo V.S.B. Sampaio,1996,SBB,1° Ed. ,,Botânica
+BOT36,"Fragmentos de Mata Atlantica do Nordeste - Biodiversidade, consrvação e suas bromelias",,"José Alves Siqueira Filho, Elton M. C. Leme",-,Andrea Jakobsson Estúdio Editorial Ltda.,1° Ed. ,,Botânica
+BOT37,Canistrum - Bromélias da Mata Atlantica,,Elton M. C. Leme,1996,Salamandra,2° Ed.,,Botânica
+BOT38,Plantas das Caatingas,,Dardano de Andrade Lima,1989,,1° Ed. ,,Botânica
+BOT39,Caatinga árvores e arbustos e suas utilidades,,Gerda Nickel Maia,2004,Leitura & Arte,1° Ed. ,,Botânica
+BOT40(1/2),Vegetação & Flora da Caatinga,,everardo v.s.b. sampaio & Ana Maria Giulitti,2000,,1° Ed. ,,Botânica
+BOT40(2/2),Vegetação & Flora da Caatinga,,everardo v.s.b. sampaio & Ana Maria Giulitti,2000,,1° Ed. ,,Botânica
+BOT41,"Bôtanica Sistemática: Guia Ilustrado para identificação das famílias de Fanerógamas natias e Exóticas no Brasil, baseado em APG II",,"Vinicius Castro Souza, Harri J. Lorenzi",2008,Instituto Plantarum,2° Ed.,-,Botânica
+BOT42,árvores e madeiras úteis do brasil - Manual de dendrologia brasileira,,Carlos Toledo Rizzini,1990,Editôra E. Blücher,2° Ed.,9788521216629,Botânica
+BOT43(1/2),Tratado de Fitogeografia do Brasil,,Carlos Toledo Rizzini,1997,"Ambito Cultural",1° Ed. ,-,Botânica
+BOT43(2/2),Tratado de Fitogeografia do Brasil,,Carlos Toledo Rizzini,1997,"Ambito Cultural",1° Ed. ,-,Botânica
+BOT44,Morfologia vegetal: organografia e dicionário ilustrado de morfologia das plantas vasculares,,"Eduardo Gomes Gonçalves, Harri Lorenzi",2011,Instituto Plantarum de Estudos da Flora,2° Ed.,-,Botânica
+BOT45,Flora Fanerogâmica da Ilha do Cardoso,,"Daniela C. Zappi, Luiza, S. Kinoshita",1996,Instituto de Botânica,4° Ed.,,Botânica
+BOT46,Quadro Geográfico da Vegetação Primitiva na Província de Minas Gerais,1,Maria das Graças Lins Brandão,2011,Fino traço,1° Ed. ,9788580540116,Botânica
+BOT47,Biogeografia do bioma cerrado: estudo fitofisionomico na Chapada do Espigao Mestre do Sao Francisco,,"Felfili, J.M",2001,Ministerio do Meio Ambiente,1° Ed. ,-,Botânica
+BOT48,Plantas Invasoras de Culturas. Vol I ,1,Oswaldo Bacchi et al.,1982,Unicamp,1° Ed. ,,Botânica
+BOT49,Plantas Invasoras de Culturas. Vol II,1,Oswaldo Bacchi et al.,1982,Unicamp,1° Ed. ,,Botânica
+BOT50,Plantas Invasoras de Culturas. Vol III,1,Oswaldo Bacchi et al.,1982,Unicamp,1° Ed. ,,Botânica
+BOT51(1/2),Flora das Caatingas do Rio São Francisco - Historia Natural  e Conservação,,José Alves Siqueira Filho,2012,Andrea Jakobsson Estúdio,1° Ed. ,9788588742505,Botânica
+BOT51(2/2),Flora das Caatingas do Rio São Francisco - Historia Natural  e Conservação,,José Alves Siqueira Filho,2012,Andrea Jakobsson Estúdio,1° Ed. ,9788588742505,Botânica
+BOT52,Flora Ilustrada Catarinense: Bignoniáceas ,1,"N. Y. Sandwith, P. Raulino Reitz, Roberto M. Klein",1974,"Herbario ""Barosa Rodrigues""",1° Ed. ,-,Botânica
+BOT53,Palmas de Colombia: Guia de campo,,"Gloria Galeano, Rodrigo Bernal",2010,"Universidad Nacional de Colombia, Facultad de Ciencias, Instituto de Ciencias Naturales",1° Ed. ,9789587195019,Botânica
+BOT54,Ecofisiologia Vegetal,,Walter Larcher,2000,RiMa Artes e Textos,1° Ed. ,9788586552038,Botânica
+CA01,A Rede Prodema (1996-2016): em busca da sustentabilidade socioambiental,Ciências Ambientais,"Maristela Oliveira de Andrade, Salvador Dal Pozzo Trevizzan",2018,Editota UFPB,1º Ed.,9788523713581,Ciências Ambientais 
+CA02,ABC do Guaporé,Ciências Ambientais,"Carolina Joana da Silva, Keid Nolan Silva Sousa, Marcos Silveira, Maria Aparecida Pereira Pierangeli, Nilo Leal Sander",2018,UNEMAT,1º Ed.,9788579111853,Ciências Ambientais 
+CA03,Educação ambiental em unidades de conservação na caatinga paraibana: Praticas Pedagógicas e Formação Continuada de Professores,Ciências Ambientais,Francisco José Pegado Abílio,2017,Editora do CCTA,1º Ed.,-,Ciências Ambientais 
+CA04,"Gestão Ambiental: Planejamento, Avaliação,  Implantação, Operação e Verificação",Ciências Ambientais,"Josimar Ribeiro de Almeida, Claudia dos S. Mello, Yara Cavalcanti",2000,Thex Editora,1º Ed.,-,Ciências Ambientais 
+CA05,Introdução aos problemas da poluição ambiental,Ciências Ambientais,Gunter Fellenberg,1980,USP,1º Ed.,-,Ciências Ambientais 
+CA06,"Meio Ambiente: Trabalho, Saúde e Segurança",Ciências Ambientais,Juan Carlos Vinãs Cortez,2013,UFPB,1° Ed.,-,Ciências Ambientais 
+CA07,Teresina: Uma visão ambiental,Ciências Ambientais,Maria do Socorro Lira Monteiro,2006,UFPI,1º Ed.,-,Ciências Ambientais 
+CA08,Zoneamento de Ambientes na Reserva Extrativista Chico Mendes - Acre,Ciências Ambientais,Lin Chau Ming,2007,Nuppea,1° Ed.,9788597459671,Ciências Ambientais 
+CET01,Principles of Ecosytem Stewardship - Resilience-based natural Rsourc Management in a Changing World,,"Carl Folke, F Stuart Chapin III, Gary P. Kofinas",2009,Springer New York,1° Ed.,9780387730332,CET
+CET02,Urban Ecology - An International perspctive on the interaction Between Humans and Nature,,"Clare Ryan, Craig ZumBrunnen, Eric Shulenberger, Gordon Bradley, John Marzluff, Ute Simon, Wilfried Endlicher, marina Alberti",2008,Springer US,1° Ed.,9780387734125,CET
+CET03,Animals in tradicional folk medicinal - Implications for Conservation,,"Ierecê Lucena Rosa, Rômulo Romeu Nóbrega Alves",2013,Springer,1° Ed.,9783642290251,CET
+CET04,Edible Medicines - An Ethnopharmacology of Food,,Nina L. Etkin,2007,University of Arizona Press,1° Ed.,9780816527489,CET
+CET05,Traditional Ecological Knowldge and Natural Resource Managment,,Charles R. Menzies,2006,University of Nebraska Press,1° Ed.,9780803207356,CET
+CET06,O saber biodiverso - Praticas e conhecimentos na agricultura indigena do baixo rio Negro,,Thiago Mota Cardoso,2010,"EDUA, Editora da Universidade Federal do Amazonas",1° Ed.,9788574015231,CET
+CET07,Comunidades Tradicionais e Manejo dos Recursos Naturais da Mata Atlântica,,"Antonio Carlos Diegues, Virgílio M. Viana",2000,,1° Ed.,,CET
+CET08,"Cura, Sabor e Magia nos Quintais da Ilha Grande",,"Alba Costa Maciel, Neuseli Cardoso",2003,Ed. UERJ,1° Ed.,9788575110409,CET
+CET09,Percepção Ambiental: A experiência Brasileira,,Lívia de Oliveira,1999,Studio Nobel,2° Ed.,9788585445423,CET
+CET10,Seeing the Forest and the Trees - Human-Environmental Interactions in Forest Ecosystems,,"Elinor Ostrom, Emilio F. Moran",2005,Mit Press,1° Ed.,9780262633123,CET
+CET11,Sistemas Biocognitivos tradicionais - Paradigmas en la Conservation Biologica y l Fortalecimento Cultural,,"Ángel Moreno Fuentes, María Teresa Pulido Silva, Ramón Mariaca, Méndez",2010,,1° Ed.,,CET
+CET12,"Conhecimento indigenas, pesquisa intercultural: Manejo do Mundo - Conhecimentos e práticas dos povos indigénas do rio negro",,Aloisio Cabalzar,2010,,1° Ed.,-,CET
+CET13,O mito moderno da natureza intocada,,Antonio Carlos Sant'Ana Diegues,1994,NUPAUB,1° Ed.,9788527103459,CET
+CET14,Pescando Pescadores: Etnoecologia Abrangente no Baixo São Francisco Alagoano,,José Geraldo W. Marques,1995,"Núcleo de Apoio à Pesquisa de Populações Humanas em Areas Umidas Brasileiras, Pró-Reitoria de Pesquisa da Universidade de São Paulo",1° Ed.,-,CET
+CET15,"Nature Knowledge - Ethnosciencie, cognition, and utility",,"Gherardo Ortalli, Glauco Sanga",2004,Berghahn Books,1° Ed.,9781571818232,CET
+CET16,"Eating on the wild side - The pharmacologic, ecologic, and social implications of using noncultigns",,Nina L. Etkin,1994,Paperback,1° Ed.,-,CET
+CET17,Human Impacts on Amazonia - The rol of tradicional ecological knowledge in conservation and development,,"Darrell A. Posey, ‎Michael J. Balick",1983,Columbia University Press,1° Ed.,9780231517355,CET
+CET18,Biodiversidad y conocimento tradicional - participation equitativa en práctica,,Sarah A. Laird,2002,Nordan-Comunidad,1° Ed.,9789974421028,CET
+CET19,Ecossistemas florestais: Interação Homem-ambiente,,"Diógenes Salas Alves, Elinor Ostrom, Emilio F. Moran, Mateus Batistella",2009,Editora Senac,1° Ed.,9788573597905,CET
+CET20,Percpção Ambiental e Comportamento - Visão Holistica da percepção Ambiental na Arquitetura e na Comunicação,,Jun Okamoto,2002,Editora Mackenzie,1° Ed.,9788587739094,CET
+CET21,Saberes tradicionais e biodiversidade no Brasil,,"Antonio Carlos Diegues, Rinaldo S. V. Arruda",2001,,1° Ed.,-,CET
+CET22,Sociobiodiversidade na chapada do araripe,,"Marcos Vinicius Meiado, Ulysses Paulino de Albuquerque",2015,NUPEEA,1° Ed.,9788563756244,CET
+CET23(1/3),Na primeira margem do Rio: Territorio ecologia do povo xavante de Wedezé,,"James R. Welch, Ricardo Ventura Santos, Nancy May Flowers, Carlos Everaldo Alvares Coimbra Junior",2013,Museu do Índio - FUNAI,1° Ed.,9788585986469,CET
+CET23(2/3),Na primeira margem do Rio: Territorio ecologia do povo xavante de Wedezé,,"James R. Welch, Ricardo Ventura Santos, Nancy May Flowers, Carlos Everaldo Alvares Coimbra Junior",2013,Museu do Índio - FUNAI,1° Ed.,9788585986469,CET
+CET23(3/3),Na primeira margem do Rio: Territorio ecologia do povo xavante de Wedezé,,"James R. Welch, Ricardo Ventura Santos, Nancy May Flowers, Carlos Everaldo Alvares Coimbra Junior",2013,Museu do Índio - FUNAI,1° Ed.,9788585986469,CET
+CET24(1/2),Direitos de recursos tradicionais: Formas de proteção e repartição de benefícios,,"Lin Chau Ming, Izabel de Carvalho, Maria Cezar de Vasconcellos, Maria Izabel Radomski, Maria dos Anjos Gonçalves Costa",2005,,1° Ed.,,CET
+CET24(2/2),Direitos de recursos tradicionais: Formas de proteção e repartição de benefícios,,"Lin Chau Ming, Izabel de Carvalho, Maria Cezar de Vasconcellos, Maria Izabel Radomski, Maria dos Anjos Gonçalves Costa",2005,,1° Ed.,,CET
+CET25(1/2),Saberes e Fazeres da Mata Atlantica do Nordeste,,"Bruno Paes Castelo Branco, Maria das Dores de V.C. Melo",2012,,3° Ed.,,CET
+CET25(2/2),Saberes e Fazeres da Mata Atlantica do Nordeste,,"Bruno Paes Castelo Branco, Maria das Dores de V.C. Melo",2012,,3° Ed.,,CET
+CET26,"Os insetos pelos moradores da Serra da Jibóia, Bahia",,Eraldo Medeiros Costa Neto,2004,Universidade Estadual de Feira de Santana,1° Ed.,9788573951080,CET
+CET27,O uso ritual das plantas de poder ,,"Beatriz Caiuby Labate, Sandra Lucia Goulart",2005,FAPESP,1° Ed.,9788575910498,CET
+CET28,Conservando nuestros bosques: conocimiento y uso de las palmas en las comunidades campesinas del norte de Bolivia,,"Erika A. Blacutt Rivero, Narel Paniagua Zambrana, Rainer Bussmann",2012,Impreso en Graficart,1° Ed.,9780984841516,CET
+CET29,Los chácobo y las palmeras,,"Erika A. Blacutt Rivero, Narel Paniagua Zambrana, Rainer Bussmann",2011,Graficart [printer],1° Ed.,9780984841509,CET
+CET30,"Nuestro conocimiento y uso de las palmeras, una herencia para nuestros hijos: comunidades Llaquash, San Martín, Perú",,William L. Brown Center for Plant Genetic Resources,2012,Graficart [printer],1° Ed.,9780984841530,CET
+CET31,"El conocimiento de nuestros ancestros -  Los ese eja y uso de las palmeras madre de dios, peru",,"Manuel J. Macía, Narel Paniagua Zambrana, Rainer Bussmann",2012,"William L. Brown Center, Missouri Botanical Garden",1° Ed.,9780984841561,CET
+CET32,"Kampanak se usa para el techo pero ya no hay -  Uso y conservacion de palmeras entre los Awajun, Amazonas, peru",,Narel Paningua Zambrana,2012,Graficart Srl,1° Ed.,978098484154,CET
+CET33,"El bosque si tiene valor - El uso de palmeras en las comunidades campesinas e indigenas de la region de Inambari, madre d Dios, Peru ",,Narel Paningua Zambrana,2012,Graficart Srl,1° Ed.,984841547,CET
+CET34,Plantas útiles del complejo cenagoso de Zapatosa,,Ana Christina Estupiñán-González,2011,CORPOCESAR,1° Ed.,-,CET
+CET35,Etnobotánica de lós chácobo,,Brian Morey Boom,2010,,1° Ed.,,CET
+CET36,Saberes e usos de Plantas - Legados de atividades humanas no Rio de Janeiro,,"Ariane Luna Peixoto, Inês Machline Silva",2011,Editora PUC Rio,1° Ed.,9788580060348,CET
+CET37,Ensaios sobre a carnaubeira,,J. B. de M. CARVALHO,1982,EMPARN,2° Ed.,-,CET
+CET38,O saber local  os recursos vegetais em Juruena Mato Grosso,,"Germano Guarim Neto, Márcia Regina Antunes Maciel",2008,Editora UFMT,1° Ed.,,CET
+CET39,"Cultura, Identidade e Territorio no Nordeste indigena: Os fulni-ô",,Peter Schroder,2011,,1° Ed.,,CET
+CET40,O segredo das Folhas -  Sistemas de Classificação de vegetais no Candoblé Iêje-Nago do Brasil,,José Flávio Pessoa de Barros,1993,Pallas - Editora e Distribuidora Ltda.,1° Ed.,,CET
+CET41,As muitas faces da Jurema de espécies botânica à divindade afro-indigena,,"Clarice Novaes da Mota, Ulysses Paulino de Albuquerque",2002,Edições Bagaço,1° Ed.,9788574093505,CET
+CET42,Resource Management in Amazonia Indigenous and Folk Strategies,,"Darrell Addison Posey, William L. Balée",1987,New York Botanical Garden,7° Ed.,-,CET
+CET43,Extrativismo da Samambaia - Preta no Rio Grande do Sul,,"Gabriela Coelho de Souza, Lovois de Andrade Miguel, Rumi Regina Kubo",2008,UFRGS Editora,1° Ed.,9788538600152,CET
+CET44(1/2),Los limpiadores de los cielos -  Factos y folclor de los zopilotes avs duenãs del imaginario Latioamericano,,Mauricio Vargas-Clavijo,2008,UFFS,1° Ed.,,CET
+CET44(2/2),Los limpiadores de los cielos -  Factos y folclor de los zopilotes avs duenãs del imaginario Latioamericano,,,2008,UFFS,1° Ed.,,CET
+CONS01(1/2),Ecologia e Conservação da Caatinga,1,Inara R. Leal; Marcelo Tabarelli; José Maria Cardoso da Silva ,2003,Ed. Universitária da UFPE,1° Ed. ,9788573152159,Conservação
+CONS01(2/2),Ecologia e Conservação da Caatinga,1,Inara R. Leal; Marcelo Tabarelli; José Maria Cardoso da Silva ,2003,Ed. Universitária da UFPE,1° Ed. ,9788573152159,Conservação
+CONS02,Ecologia e Conservação de Ecossistemas no Nordeste do Brasil ,1,Ana Carla Asfora El-Deir; Geraldo Jorge Barbosa de Moura; Elcida de Lima Araújo,2012,Nuppea,1° Ed. ,-,Conservação
+CONS03(1/2),Agrobiodiversidade no Brasil: experiências e caminhos da pesquisa,2,Lin Chau Ming; Maria Christina de Mello Amorozo; Carolina Weber Kffuri,2010,Nuppea,1° Ed. ,9788563756077,Conservação
+CONS03(2/2),Agrobiodiversidade no Brasil: experiências e caminhos da pesquisa,2,Lin Chau Ming; Maria Christina de Mello Amorozo; Carolina Weber Kffuri,2010,Nuppea,1° Ed. ,9788563756077,Conservação
+CONS04,Educação Ambiental:Princípios e Práticas,1,Genabaldo Freire Dias,1992,Gaia,4° Ed. ,9788585351090,Conservação
+CONS05,Etnoconservação: Novos rumos para proteção da natureza nos trópicos ,1,Antônio Carlos Diegues,2000,Hucites,1° Ed. ,9788527105477,Conservação
+CONS06,Essentials of Conservation Biology ,1,Richard B. Primack ,1993,Printed in U.S.A,1° Ed. ,9781605352893,Conservação
+CONS07,Conservation Forest Biodiversity: A Comprehensive Multiscales Approach,1,David B. Lindenmayer; Jerry F. Franflin,2002,Island Press,1° Ed. ,9781597268530,Conservação
+CONS08,Biologia da Conservação Essências ,1,Carlos Frederico Duarte Rocha; Helena Godoy Bergalho; Monique Van Sluys; Maria Alice Santos Alves ,2006,RiMa,1° Ed. ,9788576560890,Conservação
+CONS09,Biologia da Conservação ,1,Richard B. Primack; Efrain Rodrigues,2001,Vida,1° Ed. ,9788590200215,Conservação
+CONS10,Estratégias para Conservação e Manejo de Recursos Genéticos de Plantas Medicinais e Aromáticas ,1,"R. F. Vieira, Suelma Ribeiro Silva ",2002,EMBRAPA,1° Ed. ,9788587697127,Conservação
+CONS11,Economia do Meio Ambiente: Teoria e Prática,1,Petter H. May; Maria Cecilia Lustosa; Valéria da Vinha,2003,Elsevier,1° Ed. ,9788535237658,Conservação
+CONS12,Diversidad Ecológica Y Su Medición,1,Anne E. Margurran,1989,Vedrà,1° Ed. ,9788487456008,Conservação
+CONS13,Enfoques Comtemporâneos Para El Estudio de La Biodiversidad ,1,Héctor Hernádez; Alfonso N. García Aldrete; Fernando Álvarez; Miguel Ulloa ,2001,"Instituto de Biología, UNAM",1° Ed. ,9789683683052,Conservação
+CONS14,Biodiversidade ,1,Edward .O. Wilson ,1997,Nova Fronteira,1° Ed. ,-,Conservação
+CONS15,"O Mecanismo da Natureza: O mundo vivo à nossa volta, e como funciona",1,Paul R. Ehrlich,1993,Campus ,1° Ed. ,9788570018038,Conservação
+CONS16,Community Biodiversity Management: Promoting Resilience and the Conservation of Plant Genetic Resources,1,Waltwe Simon de Boef; Abishkar Subedi; Nivaldo Peroni; Marja Thijssen And Elizabeth o. Keeff ,2013,Taylor & Francis,1° Ed. ,9781136474866,Conservação
+CONS17,Uso Sustentável e Conservação dos Recursos Florestais da Caatinga ,1,Maria Auxiliadora Gariglio; Everardo Valares de Sá Barretto Sampaio; Lís Antônio Cestaro; Paulo Yoshio Kageyama,2010,Serviço Florestal Brasileiro,1° Ed. ,9788563269041,Conservação
+CONS18,"Biodiversidade, Potencial Econômico e Processos Eco-Fisiológicos em Ecossitemas Nordestinos - Volume I",1,"Ariadne do Nascimento Moura; Elcida de Lima Araújo, Ulyyses Paulino de Albuquerque ",2008,Nuppea,1° Ed. ,-,Conservação
+CONS19,"Biodiversidade, Potencial Econômico e Processos Eco-Fisiológicos em Ecossitemas Nordestinos -Volume II",1,"Ariadne do Nascimento Moura; Elcida de Lima Araújo, Ulyyses Paulino de Albuquerque ",2010,Nuppea,1° Ed. ,-,Conservação
+CONS20,Análise das Variações da Biodiversidade do Bioma Caatinga: Suporte a Estratégias regionais de Conservação ,1,"Francisca Soares de Araújo, Maria Jesus Nogueira Rodal, Maria Regina de Vasconcellos Barbosa",2005,Ministério do Meio Ambiente,1° Ed. ,9788587166760,Conservação
+CONS21,Terceiro Relatório Nacional para a Conservação Sobre Diversidade Biológica ,1,Brasil. Ministério do Meio Ambiente. Secretaria de Biodiversidade e Florestas. Diretoria do Programa Nacional de Conservação da Biodiversidade,2006,Ministério do Meio Ambiente,1° Ed. ,-,Conservação
+CONS22(1/2),Diagnóstico da Biodiversidade de Pernambuco ,2,Marcelo Tabarelli; José Cardoso da Silva ,2002,"Secretaria de Ciência, Tecnologia e Meio Ambiente",1° Ed. ,9788570193834,Conservação
+CONS22(2/2),Diagnóstico da Biodiversidade de Pernambuco ,2,Marcelo Tabarelli; José Cardoso da Silva ,2002,"Secretaria de Ciência, Tecnologia e Meio Ambiente",1° Ed. ,9788570193834,Conservação
+CONS23,Socioambientalismo e Novos Direitos - Proteção jurídica à diversidade biológica e cultural,1,Juliana Santilli,2005,Fundação Peirópolis,1° Ed. ,9788575960400,Conservação
+CONS24,Ciência Ambiental,1,G. Tyler Miller JR,2007,Thonson Learning,11° Ed. ,9788522105496,Conservação
+CONS25,Biodiversidade da Caatinga: Áreas e Ações Priotárias para a Conservação ,1,José Maria Cardoso da Silva,2004,Ministério do Meio Ambiente,1° Ed. ,-,Conservação
+DIVER01,Cenário para o Bioma Caatinga,1,Conselho Nacional da Reserva da Biosfera da Caatinga,2004,Conselho Nacional da Reserva da Biosfera da Caatinga,1° Ed.  ,-,Diversos
+DIVER02,Fundamentos Histórico-Epistemológicos dos Paradigmas Centrais da Biologia ,1,Argus Vasconselos de Almeida,2012,Universitária UFRPE,1° Ed.  ,-,Diversos
+DIVER03,Against the Grain: The Vayda Tradition in Human Ecology and Ecological Anthropology,1,"Bonnie J. McCay, Bradley B. Walters, Paige West, Susan Lees",2008,Eltamira,1° Ed.  ,9780759111721,Diversos
+DIVER04,Potencial da Sabiá Como Cultura do Semiárido,1,Paulo Sérgio Lima e Silva; Poliana Coqueiro Dias; Vianney Reinald de Oliveira,2015,Edufersa,1° Ed.  ,-,Diversos
+DIVER05,Tratado do Ser vivo. Vol I: O polimorfismo das Populações ,1,Jacques Ruffié ,1982,Fragmentos,1° Ed.  ,-,Diversos
+DIVER06,Tratado do Ser vivo. Vol II : A verdadeira natureza do Gene,1,Jacques Ruffié ,1982,Fragmentos,1° Ed.  ,-,Diversos
+DIVER07,Ecologia Humana En Una Comunidad de Morelos,1,Magali Daltabutt,1988,"Universidad Nacional Autonoma de , Instituto de Investigaciones Antropologicas",1° Ed.  ,-,Diversos
+DIVER08,Drogas e Cultura: Novas Perspectivas,1,Beatriz Caiuby Labate,2008,Edufba,1° Ed.  ,9788523205041,Diversos
+DIVER09,O novo mundo : História de uma polêmica (1750-1900),1,Antonello Gerbi,1996,Companhia das Letras,1° Ed.  ,9788571645578,Diversos
+DIVER10,El Hongo Maravilloso: Teonanácatl micolatría en Mesoamérica,1,R. Gordon Wasson,1998,Fondo de Cultura Económica,1° Ed.  ,Fondo de Cultura Económica,Diversos
+DIVER11,O Fogo de Prometeu: reflexões sobre a origem do Espirito  ,1,Charles Lumsden e Edward Wilson,1987,Gradativa,1° Ed.  ,-,Diversos
+DIVER12,A Erva do Diabo,1,Carlos Castaneda,2011,Nova Era,30° Ed.  ,Círculo do Livro,Diversos
+DIVER13(1/3),"""Quando pensa que não.."": Contos, Causos e Crônicas em Etnoecologia",2,Reinaldo Duque-Brasil; Gustavo Taboada Soldati; Francisco José Bezerra Souto; Nelson Leal Alencar; Lin Chau Ming; France Maria Gongtilo Coelho,2012,,1° Ed.  ,-,Diversos
+DIVER13(2/3),"""Quando pensa que não.."": Contos, Causos e Crônicas em Etnoecologia",2,Reinaldo Duque-Brasil; Gustavo Taboada Soldati; Francisco José Bezerra Souto; Nelson Leal Alencar; Lin Chau Ming; France Maria Gongtilo Coelho,2012,,1° Ed.  ,-,Diversos
+DIVER13(3/3),"""Quando pensa que não.."": Contos, Causos e Crônicas em Etnoecologia",2,Reinaldo Duque-Brasil; Gustavo Taboada Soldati; Francisco José Bezerra Souto; Nelson Leal Alencar; Lin Chau Ming; France Maria Gongtilo Coelho,2012,,1° Ed.  ,-,Diversos
+DIVER14,The seventy great mysteries of the natural world,,Michael J Benton,2008,WW Norton,1° Ed.  ,-,Diversos
+Eco01(1/1),Ecology,,Dodson,,,,,Ecologia
+Eco01(2/2),Ecology,,"Robert E. Ricklefs, Gary Miller, Gary Leon Miller",1999,W. H. Freeman,4° Ed.,9780716728290,Ecologia
+Eco02,"A biota da formação crato e o cretaceo da bacia do araripe, nordeste do brasil",Ecologia,Geralçdo Moura et al.,2006,Livro Rápido - Elógica,1° Ed.,-,Ecologia
+Eco03,Administração e controle da qualidade ambiental,Ecologia,Granville H. Sewell,1978,E.P.U,-,,Ecologia
+Eco04,Agroecologia: Processos Ecologicos em Agricultura Sustentavel,Ecologia,Stephen R. Gliessman,2005,UFRGS Editora,3º Ed.,,Ecologia
+Eco05(1/2),"Áreas prioritárias para a conservação, Uso Sustentavel e Repartição de Beneficios da Biodiversidade Brasileira: Atualização - Portaria MMA N 09, de Janeiro de 2007",Ecologia,Misterio do Meio Ambiente,2007,MMA,2° Ed.,-,Ecologia
+Eco05(2/2),"Áreas prioritárias para a conservação, Uso Sustentavel e Repartição de Beneficios da Biodiversidade Brasileira: Atualização - Portaria MMA N 09, de Janeiro de 2007",Ecologia,Misterio do Meio Ambiente,2007,MMA,2° Ed.,-,Ecologia
+Eco06,Economia da Natureza,,Robert E. Ricklefs,1993,Guanabara-Koogan,1° Ed.,9788527707985,Ecologia
+Eco07,Ecologia y Conservacion d Bosques Neotropicales,,"Manuel Ricardo Guariguata, Gustavo Kattán",2002,Libro Universitario Regional,1° Ed.,9789968801119,Ecologia
+Eco08,Fundamentos em Ecologia,,Ricardo Motta Pinto-Coelho,2000,Artmed Editora,1° Ed.,9788536310978,Ecologia
+Eco09,Ecología - Estudio de lá Distribucion y la Abundancia,,Charles J. Krbs,1985,Oxford University Press,2° Ed.,9789686034530,Ecologia
+Eco10,"Cerrado, em Busca de Soluções Sustentáveis",Ecologia,"Geraldo Wilson Fernandes, Fernando Pedroni, Maryland Sanchez",2016,-,-,9788563100092,Ecologia
+Eco11(1/1),Ecologia,,Hermann Remmert,,,,,Ecologia
+Eco11(2/2),Ecologia,,Nicholas J. Gotelli,2007,Ed. Planta,1° Ed.,9788599144046,Ecologia
+Eco12,Ciencia & Trópico,Ecologia,-,1994,Editora Massangana,,,Ecologia
+Eco13,Introdução a ecologia das águas doces,,Ayrton Costa,1991,Imprensa Universitária,1° Ed.,-,Ecologia
+Eco14,Ecologia a ciencia da sobrevivencia,,Laurnce Pingle,1977,Biblioteca do Exercito,1° Ed.,-,Ecologia
+Eco15(1/2),Introdução á Ecologia,,,1981,,1° Ed.,,Ecologia
+Eco15(2/2),Introdução á Ecologia,,,1981,,1° Ed.,,Ecologia
+Eco16(1/2),Sacred Ecology,,Fikret Berkes,2008,Routledge,1° Ed.,9781136341731,Ecologia
+Eco16(2/2),Sacred Ecology,,Fikret Berkes,2008,Routledge,1° Ed.,9781136341731,Ecologia
+Eco17,Ecologia de Caatinga - Curso de Campo 2009,,Inara Roberta Leal,2009,UFPE,1° Ed.,-,Ecologia
+Eco18,Ecologia da Caatinga - Curso de Campo 2010,,"Inara Roberta Leal, Walkiria Rejane de Almeida, Antõnio Venceslau de Aguiar Neto",2010,-,1° Ed.,9788563577108,Ecologia
+Eco19,Ecologia de Paisajes - Teoria y Aplicacion,,"Zeev Naveh, Arthur S. Lieberman",2001,"Editorial Facultad de Agronomía, Universidad de Buenos Aires",1° Ed.,9789502906768,Ecologia
+Eco20,Ecologia da Caatinga - Curso de Campo 2011,,Inara Roberta Leal,2011,,1° Ed.,9788563577115,Ecologia
+Eco21,Ecologia do Cerrado,,"Robert J. A. Goodland, Mário Guimarães Ferri",1979,Livraria Itatiaia Editora,1° Ed.,-,Ecologia
+Eco22(1/2),"Reservatórios do Nordeste do Brasil: Biodiversidade, Ecologia e Manejo",,Ariadne do Nascimento Moura,2010,Núcleo de Publicações em Ecologia e Etnobotânica Aplicada,1° Ed.,9788579170782,Ecologia
+Eco22(2/2),"Reservatórios do Nordeste do Brasil: Biodiversidade, Ecologia e Manejo",,Ariadne do Nascimento Moura,2010,Núcleo de Publicações em Ecologia e Etnobotânica Aplicada,1° Ed.,9788579170782,Ecologia
+Eco23,Tropical Forest Ecology: A View from Barro Colorado Island,,Egbert Giles Leigh,1999,Oxford University Press,1° Ed.,9780195357264,Ecologia
+Eco24,Diversidade biológica e conservação da floresta atlântica ao norte do Rio São Francisco,,"Kátia Cavalcanti Pôrto, Jarcilene S. de Almeida-Cortez",2006,Ministério do Meio Ambiente,1° Ed.,9788587166807,Ecologia
+Eco25,Ecologia e Historia Natural da Mata Atlantica,,Athayde Tonhasca Jr.,2005,Editora Interciência,1° Ed.,9788571931305,Ecologia
+Eco26,"Brejos de Altitude em Pernambuco Paraíba: história natural, ecologia e conservação",,"Jaime Joaquim Pereira Cabral, Marcelo Tabarelli",2004,Ministério do Meio Ambiente,1° Ed.,9788587166654,Ecologia
+Eco27,A biodiversidade da Estação Ecologica do Tapacurá,,"Geraldo Jorge Barbosa de Moura, Severino Mendes de Azevedo Júnior, Ana Carla Asfora El-Deir",2012,NUPEEA,1° Ed.,,Ecologia
+Eco28,Arquipelago de São Paulo e São Paulo: histórico e recursos naturais,,"Teodoro Vaske Júnior, Rosangela Paula Lessa, Marcelo Francisco de Nóbrega, Fernanda Maria Duarte do Amaral, Susan Roberta Mello O'Brien, Francisco de Assis Pereira da Costa",2010,Núcleo de Audiovisual e Multimeios,1° Ed.,8575635158,Ecologia
+Eco29,Ecologia de pescadores da Mata Atlântica e da Amazônia,,Alpina Begossi,2004,Editora Hucitec,1° Ed.,9788527106245,Ecologia
+Eco30,Solos das Regiões Tropicais,,Octavio Freire,2006,Fundacao de estudos e pesquisas agricolas e florestai,1° Ed.,9788598187037,Ecologia
+Eco31,Seres Vivos e Ambiente,,Norma M. Cleffi,1994,Harbra,1° Ed.,-,Ecologia
+Eco32,Serra de Macaé de Cima: Diversidade Floristica e Conservação em Mata Atlantica,,Horoldo Cavalcante de Lima,1997,Jardim Botânico,1° Ed.,-,Ecologia
+Eco33,Recursos Naturais e Meio Ambiente: uma visão do Brasil,,Simon Schwartzman,1997,IBGE,2° Ed.,9788524006043,Ecologia
+Eco34,A ecologia de cada dia - Educação Ambiental ,,Cléo Toledo,1991,Saraiva,2° Ed.,-,Ecologia
+Eco35,Macroecología,,James H. Brown,2003,Fondo de Cultura Económica,1° Ed.,9789681663414,Ecologia
+Eco36,Introdução á Ecologia Comportamental,,"J. R. Krebs, N. B. Davies, Mauro Ramalho, Cynthia Pinheiro Machado",1966,Atheneu Editora,1° Ed.,-,Ecologia
+Eco37,Conhecendo as áreas úmidas amazônicas: uma viagem pelas várzeas e igapós,Ecologia,"Aline Lopes, Maria Teresa Fernandez Piedade",2015,Editora INPA,-,9788521101352,Ecologia
+Eco38,Ecologia da Caatinga: Curso de Campo 2013,Ecologia,"Júlia Sfair, Tatiane Calaça, Talita Câmara, José Ribeiro Neto, Felipe Melo, Inara, Leal, Marcelo Tabarelli",2015,Livrinho de papel finíssimo editora,1º Ed.,-,Ecologia
+Eco39,Estudo Fitogeográfico do Brasil,Ecologia,"Afrânio Fernandes, Prisco Bezerra",1990,-,-,-,Ecologia
+Eco40,Indicadores de Desertificação: histórico e perspectivas,Ecologia,Heitor Matallo Júnior,2001,Unesco,1° Ed.,,Ecologia
+Eco41,The International Forestry Review - Global dry forest,Ecologia,T.C.H. Sunderland,2015,Commonwealth Forestry,1° Ed.,,Ecologia
+Eco42,"Investigacion, conservación y manejo de vicuñas",Ecologia,Bibiana Vilá,2006,Bibiana Vilá,1° Ed.,,Ecologia
+Eco43,,Ecologia,,,,,,Ecologia
+Eco44,Manejo ambiental e restauração de áreas degradadas,Ecologia,Fundação Cargill,2007,-,-,9788574670140,Ecologia
+Eco45,Novas visões sobre mudança ambiental: abordagens participativas do monitoramento,Ecologia,Joanne Abbot e Irene Guijt,1999,AS-PTA,1° Ed.,,Ecologia
+Eco46,O Meio Ambiente em Debate,Ecologia,Samuel Murgel Branco,1988,Editora Moderna ,12º Ed.,,Ecologia
+Eco47,Os Campos do Sul,Ecologia,"Valério de Patta Pillar, Omara Lange",2015,UFRGS,1° Ed.,-,Ecologia
+Eco48,Pesquisas em Unidades de Conservação no Dominio da Caatinga - Subsidios à Gestao,Ecologia,Waldir Mantovani et al,2017,ABEU,1° Ed.,-,Ecologia
+Eco49,Plantas Venenosas e Animais Peçonhentos,Ecologia,Samuel Schvartsman,1992,Sarvier,2º Ed.,,Ecologia
+Eco50,Pomar ou floresta: principios para manejo de agroecossistemas,Ecologia,Jorge Luiz Vivan,1995,AS-PTA,1° Ed.,,Ecologia
+Eco51,Proceedings: International Symposium of Assessment and Monitoring of Forests in Tropical Dry Regions with Special Reference to Gallery Forests,Ecologia,Jose Imana-Encinas,1996,Brasilia,1° Ed.,,Ecologia
+Eco52,"Reservatórios do Nordeste do Brasil: Biodiversidade, Ecologia e Manejo",Ecologia,,,,,,Ecologia
+Eco53,Sustentável Mata Atlântica: A Exploração de Seus Recursos Florestais,Ecologia,Luciana Lopes Simões,2000,Parma Ltda.,1° Ed.,-,Ecologia
+Eco54,The forests of the Congo Basin State of the Forest 2013,Ecologia,"Wasseige C., Flynn J., Louppe D.",2014,,-,9782874892998,Ecologia
+Eco55,Ecology,,"Stanley I. Dodson, Timothy F. H. Allen, Stephen R. Carpenter, Anthony R. Ives, Robert L. Jeanne",1998,Oxford University Press,1° Ed.,9780195120790,Ecologia
+Eco56,Ecologia,,Hermann Remmert,1982,E.P.U.,1° Ed.,-,Ecologia
+EcoHum01,As Yalorixás do Recife,Ecologia Humana,Lia Menezes,2005,-,-,-,Ecologia Humana
+EcoHum02,El Hongo y la génesis de las culturas,Ecologia Humana,Josep Maria Fericgla,1994,Los libros de la liebre de marzo,1º Ed.,-,Ecologia Humana
+EcoHum03,Etnomatematica,Ecologia Humana,Ubiratan D'Ambrosio,1998,Editora ática,4º Ed.,8508037570,Ecologia Humana
+EcoHum04,Levantamento da Cultura Imaterial:São Raimundo Nonato - PI E Macro-região,Ecologia Humana,Diolinda Macêdo,2007,-,-,,Ecologia Humana
+EcoHum05,Manual de Etnografia,Ecologia Humana,Marcel Mauss,1993,"Publicações Dom Quixote, Ltda.",1º Ed.,9722011049,Ecologia Humana
+EcoHum06,Os índios das águas pretas: modo de produção e equipamento produtivo,Ecologia Humana,Berta Gleizer Ribeiro,1995,Editora da Universidade de São Paulo,-,,Ecologia Humana
+EcoHum07,Ritos do Corpo,Ecologia Humana,"Lorelai Kury Hargreaves, Máslova Teixeira Valença",2000,Ed. Senac Nacional,-,8574580252,Ecologia Humana
+EcoHum08,"Tem Dendê, Tem Axé: Etnografia do Dendezeiro",Ecologia Humana,Raul Lody,1992,PALLAS - Editora e Distribuidora Ltda.,-,8534700036,Ecologia Humana
+Etno01(1/2),Suma - Etnológia Brasiliera,,"Berta Gleizer Ribeiro, Darcy Ribeiro",1987,Vozes,2° Ed. ,-,Etnobiologia
+Etno01(2/2),Suma - Etnológia Brasiliera,,"Berta Gleizer Ribeiro, Darcy Ribeiro",1987,Vozes,2° Ed. ,-,Etnobiologia
+Etno02,,,,,,,,Etnobiologia
+Etno03,Ethnobotany - A reader,,Paul E. Minnis,2000,University of Oklahoma Press,1° Ed. ,-,Etnobiologia
+Etno04,Ethnobotany,,Kim j. Young,2006,"Facts On File, Incorporated",1° Ed. ,9781438106946,Etnobiologia
+Etno05,Ethnobotany - Evolution of a disciplinee,,"Richard Evans Schultes, Siri von Reis",1995,Timber Press,1° Ed. ,9780881929720,Etnobiologia
+Etno06,Ethnobiology,,"Deborah Pearsall, E. N. Anderson, Eugene Hunn, Nancy Turner",2012,Wiley,1º Ed.,9781118015865,Etnobiologia
+Etno07,Ethnobotany,,Gary J. Martin,1995,Chapman & Hall,-,-,
+Etno08,"Etnoecology: Knowlgde, resources, and rights",,"Ben G. Blount, Ted L. Gragson",1999,University of Georgia Press,1° Ed. ,9780820321288,Etnobiologia
+Etno09,Ethnoecology: Situated Knowledge/Located Lives,,Virginia D. Nazarea,1999,University of Arizona Press,1° Ed. ,9780816543717,Etnobiologia
+Etno10,The Nature and Status of Ethnobotany,,Volney Hurt Jones,1994,University of Michigan Press,2° Ed. ,-,Etnobiologia
+Etno100,Atualidades em etnobiologia e etnoecologia,,"Ulysses Paulino de Albuquerque, Ângelo Giuseppe Chaves Alves, Ana Carolina Borges Lins e Silva",2006,NUPEEA,2º Ed.,-,Etnobiologia
+Etno101,Plantas aromáticas na alimentação,,Guido Maranca,1992,Prol editora gráfica Ltda..,1º Ed.,-,Etnobiologia
+Etno102,"Plantas Medicinais (Herbarium, Flora et scientia)",,Cid Aimbiré de M. Santos,1988,Ícone,2º Ed.,,Etnobiologia
+Etno103,Plantas Medicinais de Mata Atlântica: Manejo sustentado e amostragem,,Sandra Pavan-Fruehauf,2000,"Annablume, Fapesp",1° Ed.,,Etnobiologia
+Etno104,Plantas Medicinais de Uso Comum no Nordeste do Brasil,,"José Luciano Santos de Lima, Dermevel Araújo Furtado",2006,Ludigraf Editora,-,-,Etnobiologia
+Etno105,Plantas Medicinais de Uso Popular: Atlas Farmacognóstico,,"Cecilia Ballvé Alice, Norma Clóris Saraiva de Siqueira",1995,Editora da Ulbra,-,-,Etnobiologia
+Etno106,Plantas Medicinais e de Rituais Afro-Brasileiros I,,Maria Thereza Lemos de Arruda Camargo,1988,Editora Ave Maria Ltda.,-,-,Etnobiologia
+Etno107,Plantas medicinais na amazônia,,"Luiz Claudio Di Stasi, Elza Maria Guimarães Santos, Claudenice Moreira dos Santos, Clécia Akiko HIruma",1989,Editora unesp,-,85713900053,Etnobiologia
+Etno108,Plantas medicinais verdades e mentiras,,Luiz Claudio Di Stasi,2007,Editora unesp,-,9788571397507,Etnobiologia
+Etno109,Plantas que Curam: Cheiro de Mato,,Sylvio Panizza,1997,IBRASA,-,8534800677,Etnobiologia
+Etno11,Ethno-ornithology,,"Andrew Gosler, Sonia C. Tidemann",2010,Taylor & Francis,1° Ed. ,9781136543845,Etnobiologia
+Etno110,"Plantas, Chamanismo y Estados de Consciencia",,A.T. Shulgin et al.,1994,Los Libros de La Liebre de Marzo,1° Ed.,,Etnobiologia
+Etno111,"Um olhar etnobotânico sobre as comunidades do Bambá, Cuiabá, Mato Grosso",,Maria Corette Pasa,2007,Ed. UFMT,-,9788532702425,Etnobiologia
+Etno12,Ethnobiology and Biocultural Diversity: Proceedings of the Seventh International Congress of Ethnobiology,,"Felice S. Wyndham, John R. Stepp, Rebecca K. Zarger",2002,International Society of Ethnobiology,1° Ed. ,9780820323497,Etnobiologia
+Etno13(1/2),"Diversos olhares em Etnobiologia, Etnoecologia e Plantas Medicinais",,"Maria de Fátima Barbosa Coelho, Plácido Costa Júnior, Jeferson Luiz Dallabona Dombroski",2003,UNICEN,1º Ed.,8588504065,Etnobiologia
+Etno13(2/2),"Diversos olhares em Etnobiologia, Etnoecologia e Plantas Medicinais",,"Maria de Fátima Barbosa Coelho, Plácido Costa Júnior, Jeferson Luiz Dallabona Dombroski",2003,UNICEN,1º Ed,8588504065,Etnobiologia
+Etno14,Etnobiologia e Biodiversidade,,"Ulysses Paulino de Albuquerque, Natalia Hanazaki",2005,NUPEEA,1° Ed. ,9788577160136,Etnobiologia
+Etno15,Ethnobiology at the Millennium: Past Promise and Future Prospects,,Richard I. Ford,2001,University of Michigan Press,1º Ed.,-,Etnobiologia
+Etno16,Ethnobiology and the Science of Humankind,,Roy Ellen,2006,Wiley,1º Ed.,9781405145893,Etnobiologia
+Etno17(1/1),Ethnobiology: Implications and Applications - Proceedings of the firsh international congress of ethnobiology - Vol I,,Darrell Addison Posey,1990,The Museum,1° Ed. ,9788570980212,Etnobiologia
+Etno17(2/2),Ethnobiology: Implications and Applications - Proceedings of the firsh international congress of ethnobiology - Vol II,,Darrell Addison Posey,1990,The Museum,1° Ed. ,9788570980212,Etnobiologia
+Etno18,Current Topics in Ethnobotany,,,,,,,Etnobiologia
+Etno19(1/2),Traveling Cultures and Plants - The ethnobiology and ethnopharmacy of human migrations,,"Andrea Pieroni, Ina Vandebroek",2007,Berghahn Books,1° Ed. ,9781845456795,Etnobiologia
+Etno19(2/2),Traveling Cultures and Plants - The ethnobiology and ethnopharmacy of human migrations,,"Andrea Pieroni, Ina Vandebroek",2007,Berghahn Books,1° Ed. ,9781845456795,Etnobiologia
+Etno20,Ethnobotany and Conservation of Biocultural Diversity,,"Luisa Maffi, Thomas J. S. Carlson",2004,New York Botanical Garden Press,1° Ed. ,9780893274535,Etnobiologia
+Etno21,"Applied Ethnobotany - People, Wild Plant use & Conservation",,Anthony Cunningham,2001,Taylor & Francis,1° Ed. ,9781136534669,Etnobiologia
+Etno22,"Carving out a future - Forest, livelihoods and the international woodcarving trade",,"A. B. Cunningham, Brian Belcher, Brian Murray Belcher, Bruce Morgan Campbell, Royal Botanic Gardens, Kew, Unesco",2005,Earthscan,1° Ed. ,9781844070459,Etnobiologia
+Etno23,Plant Conservation: An Ecosytem Appoach,,Alan Hamilton,2012,Taylor & Francis,1° Ed. ,9781136559808,Etnobiologia
+Etno24(1/2),Plant Identification - Creating user-friendly field guides for Biodivrsity managemenet,,"Alan Charles Hamilton, Anna Lawrence, William Hawthorne, Patrick Hamilton",2006,Earthscan,1° Ed. ,9781844070794,Etnobiologia
+Etno24(2/2),Plant Identification - Creating user-friendly field guides for Biodivrsity managemenet,,"Alan Charles Hamilton, Anna Lawrence, William Hawthorne, Patrick Hamilton",2006,Earthscan,1° Ed. ,9781844070794,Etnobiologia
+Etno25,Aprendendo etnobiologia,,Ulysses Paulino de Albuquerque,2022,NUPEEA,1º Ed.,9788579175770,Etnobiologia
+Etno26(1/2),Landscap Ethnoecology - Concepts of Biotic and Physical Space,,"Eugene S. Hunn, Leslie Main Johnson",2010,Berghahn Books,1° Ed. ,9780857456328,Etnobiologia
+Etno26(2/2),Landscap Ethnoecology - Concepts of Biotic and Physical Space,,"Eugene S. Hunn, Leslie Main Johnson",2010,Berghahn Books,1° Ed. ,9780857456328,Etnobiologia
+Etno27,Introdução á Etnobiologia,,Ulysses Paulino de Albuquerque,2014,NUPEEA,1° Ed. ,9788563756237,Etnobiologia
+Etno28,Linking Social and Ecological Systems: Management Practices and Social Mechanisms for Building Resilience,,"Carl Folke, Fikret Berkes, Johan Colding",2000,Cambridge University Press,1° Ed. ,9780521785624,Etnobiologia
+Etno29(1/2),African Etnobotany  in Th Americans,,"Robert Voeks, John Rashford",2013,Springer,1° Ed. ,9781461408352,Etnobiologia
+Etno29(1/2),African Etnobotany  in Th Americans,,"Robert Voeks, John Rashford",2013,Springer,1° Ed. ,9781461408352,Etnobiologia
+Etno30(1/3),"Economic Botany: Devoted to Past,Present, and Future Uses of  Plants by People",,Robert Voeks,2018,Springer,-,-,Etnobiologia
+Etno30(2/3),"Economic Botany: Devoted to Past,Present, and Future Uses of  Plants by People",,Robert Voeks,2018,Springer,-,-,Etnobiologia
+Etno30(3/3),"Economic Botany: Devoted to Past,Present, and Future Uses of  Plants by People",,Robert Voeks,2018,Springer,-,-,Etnobiologia
+Etno31(1/3),"Etnoecologia em perspectiva - naturza, cultura e conservação",,"Alves AGC, Souto FJB, Peroni N",2010,NUPEEA,3° Ed. ,-,Etnobiologia
+Etno31(2/3),"Etnoecologia em perspectiva - naturza, cultura e conservação",,"Alves AGC, Souto FJB, Peroni N",2010,NUPEEA,1° Ed. ,-,Etnobiologia
+Etno31(2/3),"Etnoecologia em perspectiva - naturza, cultura e conservação",,"Alves AGC, Souto FJB, Peroni N",2010,NUPEEA,1° Ed. ,-,Etnobiologia
+Etno32,Ethnozoology - Animals in Our Lives,Etnobiologia,"Rômulo Romeu Nóbrega Alves, Ulysses Paulino de Albuquerque",2018,Academic Press,-,9780128099131,Etnobiologia
+Etno33,"A Etnozoologia no Brasil - Importância, Status atual  Perspectivas",,"Alves, R.R.N., Souto, W.M.S., Mourão, J.S.",2010,NUPEEA,4° Ed. ,-,Etnobiologia
+Etno34,Aspectos Históricos na Pesquisa Etnobiológica,,Medeiros MFT,2010,NUPEEA,5° Ed. ,-,Etnobiologia
+Etno35(1/4),Etnobiologia e Saúde de Povos Indígenas,,Moacir Haverroth,2013,NUPEEA,7° Ed. ,9788563756206,Etnobiologia
+Etno35(2/4),Etnobiologia e Saúde de Povos Indígenas,,Moacir Haverroth,2013,NUPEEA,1° Ed. ,9788563756206,Etnobiologia
+Etno35(3/4),Etnobiologia e Saúde de Povos Indígenas,,Moacir Haverroth,2013,NUPEEA,1° Ed. ,9788563756206,Etnobiologia
+Etno35(4/4),Etnobiologia e Saúde de Povos Indígenas,,Moacir Haverroth,2013,NUPEEA,1° Ed. ,9788563756206,Etnobiologia
+Etno36(1/2),"Manual de Etnobotanica: Plantas, artefatos e Conhecimentos Indigenas",Etnobiologia,Aloisio Cabalzar et al,2017,FOIRN,-,9788582260487,Etnobiologia
+Etno36(2/2),"Manual de Etnobotanica: Plantas, artefatos e Conhecimentos Indigenas",Etnobiologia,Aloisio Cabalzar et al,2017,FOIRN,,,Etnobiologia
+Etno37(1/2),Pescadores e peixes: o conhecimento local e o uso da taxonomia folk baseada no modelo berlineano,,José da Silva Mourão,2006,NUPEEA,1° Ed. ,-,Etnobiologia
+Etno37(2/2),Pescadores e peixes: o conhecimento local e o uso da taxonomia folk baseada no modelo berlineano,,José da Silva Mourão,2006,NUPEEA,1° Ed. ,-,Etnobiologia
+Etno38(1/2),Plantas Medicinais e de Rituais Afro-Brasileiros II: Estudo Etnofarmacobotânico,Etnobiologia,Maria Thereza L. de Arruda Camargo,1998,Ícone,I° Ed.,,Etnobiologia
+Etno38(2/2),Plantas Medicinais e de Rituais Afro-Brasileiros II: Estudo Etnofarmacobotânico,Etnobiologia,Maria Thereza L. de Arruda Camargo,1998,Ícone,1º Ed.,-,Etnobiologia
+Etno39,Encontros e desencontros na pesquisa etnobiologica e etnoecologica: os desafios do trabalho em campo,,"Thiago Antonio de Sousa Araújo, Ulysses Paulino de Albuquerque",2009,NUPEEA,1° Ed. ,9788577165469,Etnobiologia
+Etno40,Saberes locais sobre a Floresta Nacional do Araripe: conhecendo para conservar,,Lea,2015,-,1° Ed. ,,Etnobiologia
+Etno41,A ciência que vio da lama: Etnoecologia em área de Manguezal,,"Francisco José Bezerra Souto, Natalia Hanazaki",2008,NUPEEA,1° Ed. ,9788577164899,Etnobiologia
+Etno42,"Etnobotânica, uso e classificação dos vegetais pelos Kaingang",,"Moacir Haverroth, Natalia Hanazaki",2005,NUPEEA,2° Ed. ,9788577162772,Etnobiologia
+Etno43,Etnobotânica Históricas: Principios e Procedimentos,,"Maria Franco Trindade Medeiros, Natalia Hanazaki",2009,NUPEEA,1° Ed. ,9788577166220,Etnobiologia
+Etno44,A etnobotânica e os Jardins Botânicos,,"Viviane Stern da Fonseca-Kruel, Tânia Sampaio Pereira, Natalia Hanazaki",2009,NUPEEA,1° Ed. ,9788577166992,Etnobiologia
+Etno45,Zoneamento de Ambientes na Reserva Extrativista Chico Mendes - Acre,,Chau Ming Lin,2007,NUPEEA,1° Ed. ,9788587459671,Etnobiologia
+Etno46(1/2),Recent Developments and Cases Studios in Ethnobotany,,"Ulysses Paulino de Albuqueque, Natalia Hanazaki",2010,NUPPEA,1º Ed.,-,Etnobiologia
+Etno46(2/2),Recent Developments and Cases Studios in Ethnobotany,,"Ulysses Paulino de Albuqueque, Natalia Hanazaki",2010,NUPEEA,1º Ed.,-,Etnobiologia
+Etno47(1/3),"Tópicos em Conservação, Etnobotânica e Etnofarmacologia de Plantas Medicinais e Mágicas",Etnobiologia,"Ulysses Paulino de Albuquerque, Cecília F. C. B. R. Almeida, Joselma F. A. Marins",2005,NUPEEA,1º Ed.,,Etnobiologia
+Etno47(2/3),"Tópicos em Conservação, Etnobotânica e Etnofarmacologia de Plantas Medicinais e Mágicas",Etnobiologia,"Ulysses Paulino de Albuquerque, Cecília F. C. B. R. Almeida, Joselma F. A. Marins",2005,NUPEEA,1º Ed.,,Etnobiologia
+Etno47(3/3),"Tópicos em Conservação, Etnobotânica e Etnofarmacologia de Plantas Medicinais e Mágicas",Etnobiologia,"Ulysses Paulino de Albuquerque, Cecília F. C. B. R. Almeida, Joselma F. A. Marins",2005,NUPEEA,1º Ed.,,Etnobiologia
+Etno48,Árvores de valor e o valor das árvores: pontos de conexão,,Ulysses Paulino de Albuquerque,2005,Sociedade Brasileira de Etnobiologia e Etnoecologia,1° Ed. ,9788563756008,Etnobiologia
+Etno49,"Plantas, comunidads y áreas protegidas",,"John Tuxill, Mary Paul Nabham",2001,Nordan,1° Ed. ,-,Etnobiologia
+Etno50,"Povos e Paisagens: Etnobiologia, Etnoecologia e biodiversidade no Brasil",,Ulyssses Paulino de Albuquerque et al.,2007,SBEE,1° Ed. ,-,Etnobiologia
+Etno51(1/4),Atualidades em etnobiologia e etnoecologia,,Ulyssses Paulino de Albuquerque et al.,2002,SBEE,1° Ed. ,-,Etnobiologia
+Etno51(2/4),Atualidades em etnobiologia e etnoecologia,,Ulyssses Paulino de Albuquerque et al.,2002,SBEE,1° Ed. ,-,Etnobiologia
+Etno51(3/4),Atualidades em etnobiologia e etnoecologia,,Ulyssses Paulino de Albuquerque et al.,2002,SBEE,1° Ed. ,-,Etnobiologia
+Etno51(4/4),Atualidades em etnobiologia e etnoecologia,,Ulyssses Paulino de Albuquerque et al.,2002,SBEE,1° Ed. ,-,Etnobiologia
+Etno52(1/2),Plantas Úteis e Medicinais na Obra de Frei Vellozo,Etnobiologia,,,,,,Etnobiologia
+Etno52(2/2),Plantas Úteis e Medicinais na Obra de Frei Vellozo,Etnobiologia,,,,,,Etnobiologia
+Etno53,Estudios etnobotánicos en Campo (Cantabria) - Conocimnto y uso tradicional de plantas,,,,,1° Ed. ,,Etnobiologia
+Etno54(1/2),"Pulque, Balché y Pajauaru: en la etnobiología de las bebidas y de los alimentos fermentados",,Oswaldo Gonçalves de Lima,1975,Fondo de Cultura Económica,1° Ed. ,9789681633523,Etnobiologia
+Etno54(2/2),"Pulque, Balché y Pajauaru: en la etnobiología de las bebidas y de los alimentos fermentados",,Oswaldo Gonçalves de Lima,1975,Fondo de Cultura Económica,1° Ed. ,9789681633523,Etnobiologia
+Etno55,Estudos Etnoecologicos na região metropolitana d Salvador,,Katia Nogueira Borges,2005,Editora UNEB,1° Ed. ,-,Etnobiologia
+Etno56,Tradiciones & transformaciones en Etnobotánica,Etnobiologia,"María Lelia Pochettino, Ana H. Ladio, Patricia M. Arenas",2009,-,-,-,Etnobiologia
+Etno57,Enduring Seeds: Native American Agriculture and Wild Plant Conservation,Etnobiologia,Gary Paul Nabhan,2002,The University of Arizona Press,-,-,Etnobiologia
+Etno58,Writing Ethnographic Fieldnotes,Etnobiologia,"Robert M. Emerson, Rachel I. Fretz, Linda L. Shaw",1995,"Chicago guides to writing, editing, and publishing",-,-,Etnobiologia
+Etno59,Tales of the Field - On writing Ethnography,Etnobiologia,John Van Maanen,1988,"Chicago guides to writing, editing, and publishing",-,-,Etnobiologia
+Etno60,A erva do Diabo: Os ensinamentos de Dom Juan. As experiênicas complantas alucinógenas reveladas pelo brujo Dom Juan,,Carlos Castaneda,1993,Record,-,-,Etnobiologia
+Etno61,A galinha d'angola: Iniciação e Identidade na Cultura Afro-brasileira,,"Arno Vogel, Marco Antonio da Silva Mello, José Flávio Pessoa de Barros",1993,PALLAS - Editora e distribuidora Ltda.,-,-,Etnobiologia
+Etno62,Abordagens Participativas para o Desenvolvimento Local,,"Paulo Peterson, Jorge O. Romano",1999,Actionaid Brasil,-,-,Etnobiologia
+Etno63,Agroecology and Smal Farm Development,,,,,,,Etnobiologia
+Etno64,Atualidades em Etnobiologica e Etnoecologia,,,,,,,Etnobiologia
+Etno65,Cartilla para la Produccion Sostenible de Artesanias en Chiquichiqui,,,,,,,Etnobiologia
+Etno66,Conhecimento e Utilização de Mamíferos por Duas Comunidades em uma Area de Proteção Ambiental (APA/ARARIPE) uma Abordagem etnomastozoológica,,,,,,,Etnobiologia
+Etno67,Des plantes et des dieux dans les cultes afro-brésiliens: Essai d'ethnobotanique comparative Afrique-Brásil,,Ming Anthony,2001,L' Harmattan,-,274752440X,Etnobiologia
+Etno68,Direitos de Recursos Tradicionais: Formas de Proteção e Repartição de Benefícios,,,,,,,Etnobiologia
+Etno69,Ecologia e Etnoecologia de Recursos Florestais de Uso Alimentício no Nordeste do Brasil,,,,,,,Etnobiologia
+Etno70,Escola Viva Olho do Tempo: Gincana de Conhecimento e Preservação dos Patrimônios Culturais e Naturais do Vale do Gramane,,Raquel Carvalho dos Anjos,2017,-,-,,Etnobiologia
+Etno71,Ethnobotany in the Neotropics: Proceedings,,G.T. Prance e J.A. Kallunki,1983,New York Botanical Garden,1° Ed,,Etnobiologia
+Etno72,Etnobiologia e Biodiversidade,,Ulysses Paulino Albuquerque,2005,Nupeea,-,-,Etnobiologia
+Etno73,"Etnobiologia, Etnoecologia e Pesca Artesanal",,"José da Silva Mourão, Dandara Monalisa Bezerra",2016,Eduepb,1° Ed.,,Etnobiologia
+Etno74,Etnobiologia: Bases Ecologicas e Evolutivas,,Ulysses Paulino Albuquerque,2013,Nuppea,1° Ed.,,Etnobiologia
+Etno75,"Etnobotânica, uso e classificação dos vegetais pelos Kaingang",,Moacir Haverroth,2007',Nuppea,1° Ed.,,Etnobiologia
+Etno76,Etnofarmacobotanica: Conceituação e metodologia de pesquisa,,Maria Thereza Lemos de Arruda Camargo,2003,Terceira Margem,1° Ed.,,Etnobiologia
+Etno77,Etnomatemática: Elo entre as tradições e modernidade,,Ubiratan D'Ambrosio,2002,Autêntica,1º Ed.,,Etnobiologia
+Etno78,Etnozoologia: Recursos Animales para la salud en la tradicion salmantina,,"José Antonio González, José Ramón Vallejo, Alfonso J. Aparicio",2015,-,1º Ed.,97884164419012,Etnobiologia
+Etno79,Ewé: O uso das plantas na sociedade Iorubá,,Pierre Fatumbi Verger,2009,Companhia das letras,-,9788571644731,Etnobiologia
+Etno80,Fitoterapia da Amazônia - Manual das Plantas Medicinais,,Lúcio Salgado Vieira,1992,Editora Agronômica Ceres,2º Ed.,,Etnobiologia
+Etno81,Guia de Las Plantas Medicinales de Cantabria: Salud y tradicion popular ,,Manuel Pardo de Santayana,2004,Librería Estvdio Santander,-,8495742373,Etnobiologia
+Etno82,Herbário Etnobotânico: As Plantas do Catimbó em Meleagro de Luís da Câmara Cascudo,,Maria Thereza Lemos de Arruda Camargo,1999,"Humanitas, Fapesp",1° Ed.,,Etnobiologia
+Etno83,Introdução à Etnobotânica,,Ulysses Paulino Albuquerque et al.,2022,Interciência,3° Ed.,,Etnobiologia
+Etno84,Introdução ao Antropoceno,,Ulysses Paulino Albuquerque et al.,2022,Nuppea,1° Ed.,,Etnobiologia
+Etno85,Introducing Medical Anthropology: A Discipline In Action,,"Merrill Singer, Hans Baer",2012,Altamira Press,2º Ed.,,Etnobiologia
+Etno86,Introduction to Ethnobiology,,"Ulysses Paulino de Albuquerque, Rômulo Romeu Nóbrega Alves",2016,Springer,-,9783319281537,Etnobiologia
+Etno87,,,,,,,,Etnobiologia
+Etno88,Má Adaptação em Sistemas Médicos Locais Baseados em Plantas: Processos que favorecem o estabelecimento de Tratamentos Ineficientes em Populações Humanas,,André Luiz Borba do Nascimento,2018,-,-,,Etnobiologia
+Etno89,Medical Anthropology in Ecological Perspective,,"Ann McElroy, Patricia K. Townsend",1941,Westview,4° Ed.,,Etnobiologia
+Etno90,"Medicina Popular - Aspectos metodológicas para pesquisa garrafada - Objeto de pesquisa. Componentes medicinais de origem vegetal, animal e mineral",,Maria Thereza Lemos de Arruda Camargo,1985,ALMED Editora e Livraria Ltda.,-,,Etnobiologia
+Etno91,Medicinas Paralelas,,"François Laplantione, Paul-Louis Rabeyron",1989,Brasiliense,1° Ed.,,Etnobiologia
+Etno92,Medicinas Tradicionais e Medicina Ocidental na Amazônia,,Dominique Buchillet,1989,Edições Cejup,1º Ed.,,Etnobiologia
+Etno93,Médicos e Curandeiros: Conflito social e saúde,,Maria Andréa Loyola,1984,Difel,1° Ed.,,Etnobiologia
+Etno94,Métodos e Tecnicas na Pesquisa Etnobotânica,,,,,,,Etnobiologia
+Etno95,O Papel do Gênero no Conhecimento das Plantas Medicinais e na Resiliencia de Sistemas Médicos Locais,,,,,,,Etnobiologia
+Etno96,Os alucinogenos e o mundo simbólico,,Vera Penteado Coelho,1976,USP,1° Ed.,,Etnobiologia
+Etno97,Padrôes de Riqueza e Utilização de Plantas em Florestas Tropicais,,,,,,,Etnobiologia
+Etno98,People and Nature: An Introduction to Human Ecological Relations,,Emilio F. Moran,2007,Blackwell Publishing,-,,Etnobiologia
+Etno99,Perspectivas teóricas e práticas das relações humanas com a natureza,,Marcelo Alves Ramos et al.,2021,EDUPE,1° Ed.,,Etnobiologia
+Evo01,A Evolução na Biologia Moderna,,K. J. R. Edwards,1980,E. P. U,16° Ed.,-,Evolução
+Evo02,Decifrando o genoma: A corrida para desvendar o DNA humano,,Kevin Davies,2001,Companhia das Letras,1° Ed.,9788535901061,Evolução
+Evo03,Evolutionary Ethnobiology,,"Ulysses Paulino Albuquerque, Patrícia Muniz De Medeiros, Alejandro Casas",2013,Springer,1° Ed.,9783319199177,Evolução
+Evo04,Biologia Evolutiva,,Douglas J. Futuyma,1986,FUNPEC,1° Ed.,85875228181,Evolução
+Evo05,"Bates, Darwin Wallace e a Teoria da Evolução",,Ricardo Ferreira,1990,Editora Uinversidade de Brasilia,1° Ed.,9788523002701,Evolução
+Evo06,Apenas Mais Uma Espécie Única - Padrões da Ecologia Evolutiva Humana,,Robert Foley,1987,EDUSP,7° Ed.,9788531401688,Evolução
+Evo07,Cultural Evolution: How darwinian theory can explain human culture & synthesize the social sciences,,Alex Mesoudi,2011,University of Chicago Press,1° Ed.,9780226520445,Evolução
+Evo08,Cultivando a Diversidade: Recursos genéticos e segurança alimentar local,,David Cooper et al.,1994,AS-PTa,1° Ed.,,Evolução
+Evo09,Teoria da Evolução: de Darwin à teoria sintética,,Newton Freire-Maia,1988,Editora Itatiaia,2° Ed.,-,Evolução
+Evo10,Análise Evolutiva,,"Scott Freeman, Jon C. Herron",2009,ARTMED,4° Ed.,9788536318141,Evolução
+Evo11(1/2),Spreadsheet Exercises in Ecology and Evolution,,"Therese Marie Donovan, Charles Woodson Welden",2002,Sinauer Associates,1° Ed.,9780878931569,Evolução
+Evo11(2/2),Spreadsheet Exercises in Ecology and Evolution,,"Therese Marie Donovan, Charles Woodson Welden",2002,Sinauer Associates,1° Ed.,9780878931569,Evolução
+Evo12,Biologia Molecular e Evolução,,Sergio Russo Matioli,2001,"O holos, Editora",1° Ed.,,Evolução
+Evo13,Biogeografia: Uma Abordagem Ecológica E Evolucionária,,"C. Barry Cox, Peter D. Moore, Luiz Felipe Coutinho Ferreira da Silva",2009,Grupo Gen - LTC,7° Ed.,9788521618881,Evolução
+Evo14,Cultural Transmission and Evolution: A quantitative Approach,,"Luigi Luca Cavalli-Sforza, Marcus W. Feldman ",1981,Princeton University Press,1° Ed.,9780691209357,Evolução
+Evo15,The Evolution of Cultural Diversity: A Phylogenetic Approach,,"Ruth Mace, Clare J Holden, Stephen Shennan",2005,Princeton University Press,1° Ed.,9781598742169,Evolução
+FITO01,Farmacognosia da planta ao medicamento,1,"Alexandre Mariot, Cláudia Maria Oliveira Simões",2004,UFSC,1° Ed.,9788570256829,Fitossociologia
+FITO02,Fitomedicina na Prática Ginecológica e Obstétrica,1,Sônia Maria Rolim Rosa Lima,2009,Atheneu,2° Ed.,-,Fitossociologia
+FITO03,Farmacognosia,1,"Oliveira, F.; Akisue, G.; Akisue, M K",1991,Atheneu,1° Ed.,-,Fitossociologia
+FITO04(1/2),Fundamentos de Farmacobotânica,1,Fernando de Oliveira & Gokithi Akisue,1989,Atheneu,2° Ed.,-,Fitossociologia
+FITO04(2/2),Fundamentos de Farmacobotânica,1,Fernando de Oliveira & Gokithi Akisue,1989,Atheneu,2° Ed.,-,Fitossociologia
+FITO06,Farmacognosia Biotecnologia,1,"Robbers, J. E., Speedie M. K. e Tyler V.E. ",1997,Premier,1° Ed.,-,Fitossociologia
+FITO07,Plantas Medicinais no Brasil Nativas e Exóticas,1,"Harri Lorenzi, Francisco José de Abreu Matos",2002,Instituto Plantarum,1° Ed.,9788586714184,Fitossociologia
+FITO08,Plantas Medicinais,1,Fraois Balmé,1982,HEMUS,1° Ed.,-,Fitossociologia
+FITO09,Bibliografia de Plantas Medicinais Suplemento 1,1,Tania Maura Nora,1993,Secretatia Municipal de Saúde,1° Ed.,-,Fitossociologia
+FITO10(1/2),Zooterapia Os animais na Medicina Popular Brasileira,1,"Costa-Neto, E.M.; Alves, R.R.N",2010,NUPEEA,2° Ed.,-,Fitossociologia
+FITO10(2/2),Zooterapia Os animais na Medicina Popular Brasileira,1,"Costa-Neto, E.M.; Alves, R.R.N",2010,NUPEEA,2° Ed.,-,Fitossociologia
+FITO11,Enciclopédia das Ervas e Plantas Medicinais,1,Rene Morgan,1979,HEMUS,1° Ed.,9788528905052,Fitossociologia
+FITO12,Constituintes químicos ativos de Plantas Medicinais,1,"Sousa, M.",1991,EUFC,1° Ed.,-,Fitossociologia
+FITO13,"Plantas Medicinais sob a ótica da Química Medicinal Moderna: métodos de estudo, fitoterápicos e fitofármacos, biotecnologia, patente",1,":Rosendo Augusto Yunes, João Batista Calixto",2001,ARGOS,1° Ed.,9788575350027,Fitossociologia
+FITO14,Plantas Medicinais na Amazônia e na Mata Atlântica,1,"Luiz Claudio di Stasi, Clélia Akiko Hiruma-Lima",2002,UNESP,1° Ed.,9788571394117,Fitossociologia
+FITO15,"Sacred Leaves of Candomblé: African Magic, Medicine, and Religion in Brazil",1,Robert A. Voeks,2003,University of Texas Press,,,Fitossociologia
+FITO16,Flora Medicinal De los Mayas Peninsulares,1,Martha Méndez-González,2012,Centro de Investigación Científica de Yucatán,1° Ed.,9786077823148,Fitossociologia
+FITO17,Fitoterapia - Conceitos Clinícos,,Degmar Ferro,2008,Atheneu,1° Ed.,-,Fitossociologia
+FITO18,Plantas Medicinais do Brasil: Aspectos Gerais Sobre Legislação e Comércio,1,R.R. Silva,2001,TRAFFIC America del Sur: IBAMA,1° Ed.,9789978416259,Fitossociologia
+FITO19,Fitoterapia Racional Um guia de fitoterapia para as ciências da saúde,1,"Volker Schulz, Rudolf Hansel, Varro E. Tyler",2002,Manole,4° Ed.,9788520409909,Fitossociologia
+FITO20,Farmácias vivas: sistema de utilização de plantas medicinais projetado para pequenas comunidades,1,Francisco José de Abreu Matos,2002,UFC,1° Ed.,9788572820080,Fitossociologia
+FITO21,Malezas Comestibles del Cono Sur,,"H. Rapoport, Angel Marzocca & Bárbara S. Drausa",2009,INTA,1° Ed.,-,Fitossociologia
+FITO22,Plantes medicinals del Pirineu catalá,1,"Antoni Agelet, Joan Muntané, Montserrat Parada, Joan Vallès",2003,FARELL,2° Ed.,9788495695130,Fitossociologia
+FITO23,Avances sobre Plantas Medicinales Andinas,1,Nilda Dora Vignaley e Maria Lelia Pochettino,2009,"Cyted, Risapret",1° Ed.,-,Fitossociologia
+FITO24,Medicinal Plants and the Legacy of Richard E. Schultes,1,"Bruce E. Ponman, Rainer Bussmann",2012,William L. Brown Center at the Missouri Botanical Garden,1° Ed.,9780984841523,Fitossociologia
+FITO25,Plantas úteis do Nordeste do Brasil,1,S. C. Pereira ,2003,Centro Nordestino de Informações sobre Plantas - CNIP; Associação Plantas do Nordeste-APNE,1° Ed.,-,Fitossociologia
+FITO26,Plantas Venenosas e Animais Peçonhetos,1,Samuel Schvartsman,1992,SARVIER,1° Ed.,-,Fitossociologia
+FITO27,Insetos de interesse médico e veterinário,1,Messias Carrera,1991,UFPR,1° Ed.,9788585132576,Fitossociologia
+FITO28,Plantas dietéticas,1,Julio Alberto Hurrell et al.,2013,LOLA,1° Ed.,,Fitossociologia
+FITO29,Plantas Medicinais para Ruminantes,1,"Patrício Marques de Souza, Dermeval Araújo Furtado, Suedney de Lima Silva",2012,epgraf,1º Ed.,97885603070667,Fitossociologia
+FITO30,A saúde e a cura pela natureza,1,Edilson Pinto da Silva,2005,Grafica Santa Maria,1° Ed.,-,Fitossociologia
+FITO31,Frutas Nativas da Região Centro - Oeste do Brasil,1,"Roberto Fontes Vieira, Tânia da Silveira Agostini-Costa, Dijalma Barbosa da Silva, Sueli Matiko Sano, Francisco Ricardo Ferreira",2010,EMBRAPA,-,,Fitossociologia
+FITO32,Farmacopéia Popular do Cerrado,1,Jaqueline Evangelista Dias,2010,Pacari,1° Ed.,9788562918001,Fitossociologia
+FITO33,"Etnobotânica, uso e classificação dos vegetais pelo kaingang",,,,,,,Fitossociologia
+FITO34,A etnobotânica e os jardins botânicos,,,,,,,Fitossociologia
+Id01(1/2),O dicionário de uma só palavra,,,,,,,
+LIT01,As Mentiras que os Homens Contam,Literatura,Luis Fernando Verissimo,2015,Objetiva,1° Ed.,9788539007158,Literatura
+LIT02,Augusto dos Anjos e sua Epoca,Literatura,Humberto Nobrega,1962,Universidade da Paraiba,1° Ed.,,Literatura
+LIT03,Catálogo dos Manuscritos Avulsos da Capitania de Pernambuco: Fontes Documentais Coloniais do Semiárido Brasileiro,Literatura,,,,,,Literatura
+LIT04,O livro dos 100 anos: Memorial fotográfico da UFRPE,Literatura,,,,,,Literatura
+LIT05,O mundo precisa de filosofia,Literatura,Eduardo Prado de Mendonç,1968,Liv. Agir,1° Ed.,,Literatura
+LIT06,O ramo de Ouro,Literatura,,,,,,Literatura
+LIT07,"Trajetórias Acadêmicas: diferentes pessoas,diferentes jornadas",Literatura,,,,,,Literatura
+MET01,Métodos de pesquisa - Ciência do comportamento e diversidade humana,,Andrea Spata,2005,Livros Técnicos e Científicos,1° Ed.,9788521614340,Metodologia Cientifica
+MET02,Metodologias de Pesquisa em Ciências Análises Quantitativa e Qualitativa,,"Makilim Nunes Baptista, Dinael Corrêa de Campos",2007,Livros Técnicos e Científicos,1° Ed.,9788521615453,Metodologia Cientifica
+MET03,"Projeto de Pesquisa Métodos qualitativo, quantitativo e misto",1,John W. Creswell,2007,Sage,1° Ed.,9788536323008,Metodologia Cientifica
+MET04,O planejamento da pesquisa qualitativa: Teorias e Abordagens,1,"Norman K. Denzin, Yvonna S. Lincoln",2006,Artmed,1° Ed.,9788536306636,Metodologia Cientifica
+MET05,Projeto de Pesquisa: Guia para pesquisadores iniciantes em educação saúde e ciências sociais,1,Magda França Lopes,2008,Artmed,1° Ed.,9788536310565,Metodologia Cientifica
+MET06(1/3),Currents topics in Ethnobotany,,,,,,,Metodologia Cientifica
+MET06(2/3),Currents topics in Ethnobotany,,,,,,,Metodologia Cientifica
+MET06(3/3),Currents topics in Ethnobotany,,,,,,,Metodologia Cientifica
+MET07(1/2),Como falar em público sobre ciência,1,,2008,Comunigraf/NUPEEA,1° Ed.,,Metodologia Cientifica
+MET07(2/2),Como falar em público sobre ciência,1,,2008,Comunigraf/NUPEEA,1° Ed.,,Metodologia Cientifica
+MET08(1/2),Conselhos a um Jovem cientista,1,,2011,NUPEEA,1° Ed.,,Metodologia Cientifica
+MET08(2/2),Conselhos a um jovem cientista,,,1982,Universidade de Brasília,1° Ed.,,Metodologia Cientifica
+MET09(1/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET09(2/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET09(3/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET09(4/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET09(5/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET09(6/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET09(7/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET09(8/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET09(9/9),Guia de campo de árvores da Caatinga,,"Amanda Pricila Batista Santos, Maria de Fátima da Silva Nascimento, José Alves Siqueira Filho, Fábio da Silva do Espírito Santo",2009,Ed. e gráfica Franciscana Ltda,1° Ed.,9788560849192,Metodologia Cientifica
+MET10,Manual de padronização de textos,1,,1999,Brasília,1° Ed.,,Metodologia Cientifica
+MET11,Como se faz uma tese,,,1992,Perspectiva,1° Ed.,,Metodologia Cientifica
+MET12(1/2),Anatomia de um Artigo,1,"Antonio Souto",2007,UFPE,1° Ed.,9788573154184,Metodologia Cientifica
+MET12(2/2),Anatomia de um Artigo,1,"Antonio Souto",2007,UFPE,1° Ed.,9788573154184,Metodologia Cientifica
+MET13,Redação de textos científicos,1,Vera Cristina Feitosa,1991,Papirus,1° Ed.,9788530801762,Metodologia Cientifica
+MET14,Pesquisa Científica - Critérios Epistemológicos,1,Jose Carlos Koche,2005,Vozes,1° Ed.,9788532631312,Metodologia Cientifica
+MET15(1/4),Métodos e técnicas na pesquisa etnobotânica,1," Ulysses Paulino Albuquerque, Reinaldo Farias Paiva de Lucena, Luiz Vital F.C. Cunha",2004,NUPEEA,1° Ed.,-,Metodologia Cientifica
+MET15(2/4),Métodos e técnicas na pesquisa etnobotânica,1," Ulysses Paulino Albuquerque, Reinaldo Farias Paiva de Lucena, Luiz Vital F.C. Cunha",2004,NUPEEA,1° Ed.,-,Metodologia Cientifica
+MET15(3/4),Métodos e técnicas na pesquisa etnobotânica,1," Ulysses Paulino Albuquerque, Reinaldo Farias Paiva de Lucena, Luiz Vital F.C. Cunha",2004,NUPEEA,1° Ed.,-,Metodologia Cientifica
+MET15(4/4),Métodos e técnicas na pesquisa etnobotânica,1," Ulysses Paulino Albuquerque, Reinaldo Farias Paiva de Lucena, Luiz Vital F.C. Cunha",2004,NUPEEA,1° Ed.,-,Metodologia Cientifica
+MET16(1/2),Caminhos da Ciência,1,,,UFRPE,1° Ed.,,Metodologia Cientifica
+MET16(2/2),Caminhos da Ciência,1,,,UFRPE,1° Ed.,,Metodologia Cientifica
+MET17,Anatomia de um Artigo,1,"Antonio Souto",2007,UFPE,1° Ed.,9788573154184,Metodologia Cientifica
+MET18,Science on trial,1,,1669,,1° Ed.,,Metodologia Cientifica
+MET19,Grupos focais,1,Rosaline Barbour,2009,Bookman/Artmed,1° Ed.,9788536321455,Metodologia Cientifica
+MET20,Etnografia e observação participante: Coleção Pesquisa Qualitativa,1,Michael Angrosino,2009,Bookman/Artmed,1° Ed.,9788536321387,Metodologia Cientifica
+MET21,Análise de dados qualitativos,1,,2009,Bookman/Artmed,1° Ed.,,Metodologia Cientifica
+MET22,Qualidade na pesquisa qualitativa: Coleção Pesquisa Qualitativa,1,Uwe Flick,2009,Bookman/Artmed,1° Ed.,9788536321363,Metodologia Cientifica
+MET23,Dados visuais para pesquisa qualitativa: Coleção Pesquisa Qualitativa,1,Marcus Banks,2009,Bookman/Artmed,1° Ed.,9788536321349,Metodologia Cientifica
+MET24,Projeto de Pesquisa: Propostas Metodológicas,,,,,,,Metodologia Cientifica
+MET25,"Um livro bom, pequeno e acessível sobre pesquisa qualitativa",1,David Silverman,2010,Bookman,1° Ed.,9788577806478,Metodologia Cientifica
+MET26,Investigação Qualitativa Fundamentos e Práticas,1,,2005,,1° Ed.,,Metodologia Cientifica
+MET27,Investigação por questionário,,,2005,Sílabo,1° Ed.,,Metodologia Cientifica
+MET28,Complexidade e pesquisa interdisciplinar,1,,2007,Vozes,1° Ed.,,Metodologia Cientifica
+MET29,Uma introdução à Pesquisa Qualitativa,,Uwe Flick,2004,Bookman,1° Ed.,9788536304144,Metodologia Cientifica
+MET30,Delineando a pesquisa clínica - Uma abordagem epidemiológica,1,,2003,artmed,1° Ed.,,Metodologia Cientifica
+MET31,"Análise de dados qualitativos Estratégias Metológicas para as Ciências da Saúde, Humanas e Sociais",1,,2001,EDUSP/ FAPESP,1° Ed.,,Metodologia Cientifica
+MET32,Just the facts101 - Textbook key Facts - Ethnobiology,1,,,,1° Ed.,,Metodologia Cientifica
+MET33,Métodos qualitativos nas ciências sociais e na prática social,1,,2007,UFPE,1° Ed.,9788573153989,Metodologia Cientifica
+MET34,Metodologia participativa: uma introdução a 29 instrumentos,1,Markus Brose,2001,Participe,1° Ed.,9788586225239,Metodologia Cientifica
+MET35,Pesquisa participante,,,1990,Brasiliense,1° Ed.,,Metodologia Cientifica
+MET36,Participant observation A guide for fieldworkers,,"Kathleen M. DeWalt, Billie R. DeWalt",2011,Altamira,1° Ed.,9780759119277,Metodologia Cientifica
+MET37,Pesquisa social - Métodos e Técnicas,1,"Roberto Jarry Richardson, José Augusto de Sousa Peres",1999,Atlas,1° Ed.,9788522421114,Metodologia Cientifica
+MET38,O método em sociologia o que é e como faz,1,,2001,Loyola,1° Ed.,,Metodologia Cientifica
+MET39,Estatística para as ciências agrárias e biológicas com noções de experimentação,1,"Dalton Francisco de Andrade, Paulo José Ogliari",2010,UFSC,1° Ed.,9788532803740,Metodologia Cientifica
+MET40,Intuitive biostatistics A nonmathematical guide to statistical thinking,,Harvey Motulsky,2018,OXFORD,1° Ed.,9780190643560,Metodologia Cientifica
+MET41,Introdução à bioestatística,1,,1985,Campus ltda,1° Ed.,,Metodologia Cientifica
+MET42,English for writing research papers,1,Adrian Wallwork,2016,Springer,1° Ed.,9783319260945,Metodologia Cientifica
+MET43,Research Synthesis and Meta-Analysis: A Step-by-Step Approach,,,2010,,1° Ed.,,Metodologia Cientifica
+MET44,BioEstat 5.0 Aplicações Estatística nas áreas das ciências biológicas,1,M. Ayres,2007,Sociedade Civil Mamirauá,1° Ed.,-,Metodologia Cientifica
+MET45,Fitossociologia no Brasil - Métodos e estudos de caso,1,Jeanine Maria Felfili,2011,UFV,1° Ed.,9788572694063,Metodologia Cientifica
+MET46,As cinco maiores ideias da ciência,1,,2002,Prestígio,1° Ed.,,Metodologia Cientifica
+MET47,A ciência em ação,1,,1994,Papirus,1° Ed.,,Metodologia Cientifica
+MET48,Ciência consciência,1,Edgar Morin,2010,Bertrand Brasil,1° Ed.,9788528605792,Metodologia Cientifica
+MET49(1/2),"Métodos de Coleta e Análise de dados em Etnobiologia, Etnoecologia e Disciplinas Correlatas",1,"1. SEMINÁRIO DE ETNOBIOLOGIA E ETNOECOLOGIA DO SUDESTE (2002, Rio Claro)",2002,UNESP,1° Ed.,-,Metodologia Cientifica
+MET49(2/2),"Métodos de coleta e análise de dados em Etnobiologia, Etnoecologia e Disciplinas Correlatas",1,"1. SEMINÁRIO DE ETNOBIOLOGIA E ETNOECOLOGIA DO SUDESTE (2002, Rio Claro)",2002,UNESP,1° Ed.,-,Metodologia Cientifica
+MET50,A manual of ethnobotany,1,S.K. Jain,2004,JODHPUR,1° Ed.,9788172333638,Metodologia Cientifica
+MET51,Ethnography,1,,2010,,1° Ed.,,Metodologia Cientifica
+MET52,Evaluando la consecha oculta de los bosques,1,"Bruce Campbell, Martin K. Luckert",2003,Fondo Mundial para la Naturaleza,1° Ed.,9789974421011,Metodologia Cientifica
+MET53,Manual de redação científica,1,,2011,NUPEEA,1° Ed.,,Metodologia Cientifica
+MET54,Fundamentos de Metodologia Científica,1,,1991,atlas,1° Ed.,,Metodologia Cientifica
+MET55,Métodos de Pesquisa nos Estudos Pessoa-Ambiente,1,"José de Queiroz Pinheiro, Hartmut Günther",2008,Casa do Psicólogo,1° Ed.,9788573965742,Metodologia Cientifica
+MET56,Métodos de estudos em Biologia da Conservação e Manejo da Vida Silvestre,1,Laury Cullen,2004,UFPR,1° Ed.,9788573351149,Metodologia Cientifica
+MET57,"Research desing Qualitative, quantitative, and mixed methods Approaches",1,"John W. Creswell, J. David Creswel",2009,SAGE,1° Ed.,9781506386706,Metodologia Cientifica
+MET58,Systematic data collection,1,"Susan C. Weller, A. Kimball Romney",1988,SAGE Publications,1° Ed.,9780803930742,Metodologia Cientifica
+MET59,An introduction to scientific research,1,,1990,,1° Ed.,,Metodologia Cientifica
+MET60,On being A scientist A guide to responsible conduct in research,,,2010,,1° Ed.,,Metodologia Cientifica
+MET61,A ph.D. Is not Enough Guide to survival in science,1,Peter J. Feibelman,1993,Basic Books,1° Ed.,9780201627176,Metodologia Cientifica
+MET62,Modelling for field biologists and other interesting people,1,Cambridge University Press,2007,Cambridge,1° Ed.,9780521538565,Metodologia Cientifica
+MET63,What they didn't teach you in graduate school ,1,,,Stylus,1° Ed.,,Metodologia Cientifica
+MET64,Manual de Antropologia Cultural,1,Ángel-B. Espina Barrio,2005,Massangana,1° Ed.,9798570194311,Metodologia Cientifica
+MET65,"Técnicas de coleta, preservação e herborização de material botânico",,"Oswaldo Fidalgo, São Paulo (Brazil : State). Instituto de Botânica, Vera Lúcia Ramos Bononi",1989,"Governo do Estado de São Paulo, Secretaria do Meio Ambiente, Instituto de Botânica",1° Ed.,9788585131074,Metodologia Cientifica
+MET66,"Manual de coleta, conservação, montagem e identificação de insetos",1,,1998,Holos,1° Ed.,,Metodologia Cientifica
+MET67,Manual de arborização urbana,1,,2010,eduepb,1° Ed.,,Metodologia Cientifica
+MET68,Manual de etnozoología: una guía teórico-práctica para investigar la interconexión del ser humano con los animales,1,"Eraldo Medeiros Costa Neto, Dídac Santos Fita, Mauricio Vargas Clavijo",2009,Tundra,1° Ed.,9788461355518,Metodologia Cientifica
+MET69,Ensino de botânica e ecologia - Proposta metodológica,1,"Antonio Batista Pereira, Jair Putzke",1996,Sagra-Luzzato,1° Ed.,9788524105180,Metodologia Cientifica
+MET70,Prática de ensino de biologia,1,,1996,HARBRA,1° Ed.,,Metodologia Cientifica
+MET71,Métodos e técnicas na pesquisa etnobiológica e etnoecológica,,"Ulysses Paulino de Albuquerque, Reinaldo Farias Paiva de Lucena, Luiz Vital Fernandes Cruz Cunha",2010,NUPPEA,1º Ed.,9788563756015,Metodologia Cientifica
+MET72,Research Methods in Anthropology,1,,,,1° Ed.,,Metodologia Cientifica
+MET73,"PROTOCOLOS EM PSICOFARMACOLOGIA COMPORTAMENTAL Um guia para pesquisa de drogas com ação sobre o SNC, com ênfase nas plantas medicinais",1,,2011,FAP-UNIFESP,1° Ed.,,Metodologia Cientifica
+MET74,Princípios de estatística em Ecologia ,1,"Nicholas J. Gotelli, Aaron M. Ellison",2011,ARTMED,1° Ed.,9788536324692,Metodologia Cientifica
+MET75,Cultural uses of plants - A guide to learning about ethnobotany,1,,,,1° Ed.,,Metodologia Cientifica
+MET76,Plantas Medicinais: Arte e Ciência Um guia de estudo interdisciplinar,1,Luiz Claudio di Stasi,1996,UNESP,1° Ed.,9788571391178,Metodologia Cientifica
+MET77,Como escrever artigos cientificos sem arrodeio e sem medo da ABNT,Como Fazer Sua Pesquisa,,,,,,Metodologia Cientifica
+MET78,Como fazer sua pesquisa ,Como escrever artigos cientificos sem arrodeio e sem medo da ABNT,,,,,,Metodologia Cientifica
+MET79,De Marte a Narciso: (Sobre)vivencias em  Dissertações de Mestrado,Dicionario: Oxford Escolar para estudantes brasileiros de inglês,,,,,,Metodologia Cientifica
+MET80,Dicionario: Oxford Escolar para estudantes brasileiros de inglês,Estudos de casos no Treinamento de Executivos,,,,,,Metodologia Cientifica
+MET81,Estudos de casos no Treinamento de Executivos,Futureo: Um método fundamentado e convidatico para sonhar nosso futuro coletivo,,,,,,Metodologia Cientifica
+MET82,Futureo: Um método fundamentado e convidatico para sonhar nosso futuro coletivo,Gran Diccionario: Español - Portugués; Espanhol - Português,,,,,,Metodologia Cientifica
+MET83,Gran Diccionario: Español - Portugués; Espanhol - Português,Introdução ao Projeto de Pesquisa Cientifica ,,,,,,Metodologia Cientifica
+MET84,Introdução ao Projeto de Pesquisa Cientifica ,Melhoramentos - Dicionário Prático da Língua Portuguesa,,,,,,Metodologia Cientifica
+MET85,Melhoramentos - Dicionário Prático da Língua Portuguesa,Metodologias Qualitativas Na Sociologia,,,,,,Metodologia Cientifica
+MET86,Metodologias Qualitativas Na Sociologia,Mini-aurélio Escolar: O minidicionário da língua portuguesa,,,,,,Metodologia Cientifica
+MET87,Mini-aurélio Escolar: O minidicionário da língua portuguesa,Novo Websters: Dicionário Universitário,,,,,,Metodologia Cientifica
+MET88,Novo Websters: Dicionário Universitário,O Método de Estudo de Caso Aplicado à Gestão de Negócios,,,,,,Metodologia Cientifica
+MET89,O Método de Estudo de Caso Aplicado à Gestão de Negócios,O que você precisa saber sobre ciencia para não passar vergonha,,,,,,Metodologia Cientifica
+MET90,O que você precisa saber sobre ciencia para não passar vergonha,Projeto de Pesquisa: Propostas Metodológicas,,,,,,Metodologia Cientifica
+MET91,Projeto de Pesquisa: Propostas Metodológicas,,,,,,,Metodologia Cientifica
+Teco01,Resilience Practice: Building Capacity to Absorb Disturbance and Maintain Function,,"Brian Walker, David Salt",1940,Island Press,1° Ed.,9781610912310,TECO
+Teco02,Resilience thinking,,,,,,,TECO
+Teco03,Foraging Theory,,,1955,,1° Ed.,,TECO
+Teco04,The Complete Idiot's Guide to Game Theory: The Fascinating Math Behind Decision-Making,,"Edward C. Rosenthal, Ph.D.",2011,Dorling Kindersley Limited,1° Ed.,9780241884515,TECO
+Teco05,Evolutionary Game Theory,,,,,,,TECO
+Teco06,"Evolutionary Game Theory, Natural Selection, and Darwinian Dynamics",,"Thomas L. Vincent, Joel S. Brown",2005,Cambridge University Press,1° Ed.,9781139444293,TECO
+Teco07,Teoria dos Jogos: Com aplicações em economia. administração e ciências Sociais,,,1998,,2° Ed.,,TECO
+Teco08,Games and Decisions: Introduction and Critical Survey,,"Robert Duncan Luce, Howard Raiffa",1957,Wiley,1° Ed.,-,TECO
+Teco09,"Rock, Paper, Scissors: Game Theory in Everyday Life",,Len Fisher,2008,Basic Books,1° Ed.,9780786726936,TECO
+Teco10,Evolution and the Theory of Games,,John Maynard Smith,1982,Cambridge University Press,2° Ed.,9780521288842,TECO
+Teco11,Game Theory,,,1983,,1° Ed.,,TECO
+Teco12,Antropologi Cultural,,,1982,,15° Ed.,,TECO
+Teco13,Ecologia Humana: Realidade e Pesquisa,,Maria José Araújo Lima,1984,Vozes,1° Ed.,-,TECO
+Teco14,Ecologia Humana: Da visao acadêmica aos temas atuais,,Ronaldo Gomes Alvim,2012,EDUFAL,1° Ed.,9788571777156,TECO
+Teco15,Filosofia da Ciência,,,2000,,2° Ed.,,TECO
+Teco16,Game Theory: A Very Short Introduction,,Ken Binmore,2007,OUP Oxford,1° Ed.,9780199218462,TECO
+Teco17,Advances in Historical Ecology,,William L. Balée,1893,"Columbia University Press",1° Ed.,9780231533577,TECO
+Teco18,The Triumph of Sociobiology ,,John Alcock,2001,Oxford University Press,1° Ed.,9780195143836,TECO
+Teco19,Etnobiologia e etnoecologia: Pessoas & Natureza na America Latina,," Valdeline Silva, Alyson Luiz Santos de Almeida, Ulysses Paulino Albuquerque",2010,NUPEEA,1° Ed.,-,TECO
+Teco20,Human Ecology: Basic concepts for Sustainable Development,,,2004,,1° Ed.,,TECO
+Teco21,New Directions in Anthropology & Environment: Intersections,,Carole L. Crumley,2001,AltaMira Press,1° Ed.,9780585382593,TECO
+Teco22,"The Environment in Anthropology: A reader in Ecology, Culture, and Sustainable Living",,"Allison Harnish, Nora Haenn, Richard Wil",2006,NYU Press,1° Ed.,9781479876761,TECO
+Teco23,Ecologia Humana,,,1999,,1° Ed.,,TECO
+Teco24,"O macaco, a áfrica e o homem",,Yves COPPENS,1983,Yves COPPENS,1° Ed.,-,TECO
+Teco25,Cultural Ecology,,Robert McC. Netting,1986,Waveland Press,2° Ed.,9780881332049,TECO
+Teco26,Understanding Urban Ecosystems,,,1999,,8° Ed.,,TECO
+Teco27,Medical Anthropology: A Biocultural Approach,,"Andrea S. Wiley, John Scott Allen",2009,Oxford University Press,1° Ed.,9780195308822,TECO
+Teco28,Historical Ecology: Cultural Knowledge and Changing Landscapes,,Carole L. Crumley,1993,School of American Research Press,1° Ed.,9780933452855,TECO
+Teco29,Aprender Antropologia,,,1991,,4° Ed.,,TECO
+Teco30,Human Ecology: A theoretical Essay,,Amos H. Hawley,1986,University of Chicago Press,1° Ed.,9780226319841,TECO
+Teco31,Introdução aos estudos Etno Antropológicos,,Bernardo Bernardi,1974,Edições 70,1° Ed.,9789724404028,TECO
+Teco32,Advances in Urban Ecology: Integrating Humans and Ecological Processes in Urban Ecosystems,,marina Alberti,2009,Springer US,1° Ed.,9780387755106,TECO
+Teco33,"On Biocultural Diversity: linking language, knowledge and the environment",,Luisa Maffi,2001,Smithsonian,1° Ed.,9781437974836,TECO
+Teco34,Antropologia Ecológica: um olhar materialista sobre as sociedades humanas,,Walter A. Neves,1996,Cortez,59° Ed.,9788524906213,TECO
+,Tradiciones & transformaciones en Etnobotánica,,,2010,,1° Ed. ,,Etnobiologia
+,Traveling Cultures and Plants - The ethnobiology and ethnopharmacy of human migrations,,"Andrea Pieroni, Ina Vandebroek",2007,Berghahn Books,1° Ed. ,9781845456795,Etnobiologia
+Id02 (2/2),Introdução à ecologia,,Ecologia,,,,,Ec
+Id03,Introdução à ecologia,,Ecologia,,,,,
+Id04,Ecologia,,Ecologia,,,,,
+Id05 (1/2),Etnobiologia - Bases ecológicas e evolutivas,,Etnobiologia,,,,,
+Id05 (2/2),Etnobiologia - Bases ecológicas e evolutivas,,Etnobiologia,,,,,
+Id06,Desenho da pesquisa qualitativa,,MET,,,,,
+Id07,Métodos de pesquisas de Survey,,MET,,,,,
+Id08,Botânica geral,,Botãnica,,,,,
+Id09,Botânica - Introdução à taxonomia vegetal,,Botãnica,,,,,
+Id10,Compendio de botânica,,Botãnica,,,,,
+Id11,Glossário ilustrado de botânica,,Botãnica,,,,,
+Id12,Botânica organografia,,Botãnica,,,,,
+Id13,Paleobotânica,,Botãnica,,,,,
+Id14,A arte de pesquisar ,,MET,,,,,
+Id15,Introdução à botânica,,Botãnica,,,,,
+Id16,Ervas & plantas - seu uso mágico e simbolismo astrológico,,Etnobiologia,,,,,
+Id17 (1/2),"Repertorio de especialistas en la ""Africanía""",,Diversos,,,,,
+Id18 (2/2),"Repertorio de especialistas en la ""Africanía""",,Diversos,,,,,
+Id19,O mnivore's Dilemma,,Diversos,,,,,
+Id20,Eating and Healing,,Etnobiologia,,,,,
+Id21,McGraw-Hill Series In Forest Resources,,Botanica,,,,,
+Id22,Catálogo de plantas e fungos do brasil,,Botanica,,,,,
+Id23 (1/2),Plantas úteis e medicinais,,Etnobiologia,,,,,
+Id23 (2/2),Plantas úteis e medicinais,,Etnobiologia,,,,,
+Id24,Nossa história evolutiva,,Etnobiologia,,,,,
+Id25,Agroecology and small farm development,,Etnobiologia,,,,,
+Id26,Comunicações Técnicas Florestais - Levantamento Ecológico Rápido,,Ciências Ambioentais,,,,,
+Id27,Áreas prioritárias para a conservação e uso sustentável da Flora Brasileira ameaçada de extinção,,Etnobiologia,,,,,
+Id28,Fundamentos Psicológicos da Educação,,Diversos,,,,,
+Id29,Cadernos didáticos: Taxonomia de Angiosperma (Curso Prático),,Botanica,,,,,
+Id30,Catálagos dos manuscritos avulsos das capitanias do Rio Grande do Norte e Ceará,,Ciências Ambioentais,,,,,
+Id31,Expansion del cultivo de la caña de azucar y de la ganaderia en el nordeste del Brasil,,Diversos,,,,,
+Id32,Geo História a evolução global da terra,,Ciências Ambioentais,,,,,
+Id33,Multi-Variate Statatitical Package version 3.0,,MET,,,,,
+Id34,O discurso do sujeito coletivo,,MET,,,,,
+Id35,O papel do gênero no conhecimento das plantas medicinais e na resiliência de sistemas locais,,Etnobiologia,,,,,
+Id36,Conhecimento e utilização de mamíferos por duas comunidades em uma área de proteção ambiental (APA/ARARIPE): Uma abordagem etnomastozoológica,,Etnobiologia,,,,,
+Id37,Análises Ecológicas no R,,Met,,,,,
